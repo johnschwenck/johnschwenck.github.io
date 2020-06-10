@@ -15,7 +15,7 @@ navbar-links:
   Home: "index"
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - R4R - NYC to Alaska: "https://app.powerbi.com/reportEmbed?reportId=bf210cab-cfd1-415a-bfbe-c582c3357bc1&autoAuth=true&ctid=68f381e3-46da-47b9-ba57-6f322b8f0da1&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D"
     - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com"
 

@@ -14,8 +14,7 @@ subtitle: Graduate Student | Statistics | Texas A&M University
 	<h3>Contact:</h3>
 		<p> <a href = "http://www.stat.tamu.edu"> Department of Statistics</a> <br>
 		<a href="http://www.tamu.edu"> Texas A&M University </a> <br>
-		3143 TAMU <br>
-		College Station, TX 77843 <br>
+		College Station, TX 77840 <br>
 		<strong>Email:</strong> jschwenck [at] stat.tamu.edu <br>
 		<a href = "https://johnschwenck.github.io/resources/Schwenck - Resume 2020.pdf"> Click here for CV</a>
 		</p>

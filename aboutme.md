@@ -1,9 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: 
-> It is hard to fail, but it is worse to never have tried to succeed.
-- Theodore Roosevelt
+subtitle: It is hard to fail, but it is worse to never have tried to succeed. - Theodore Roosevelt
 ---
 
 Welcome to my site! My name is John Schwenck and I am currently a graduate student at Texas A&M University pursuing a Master of Science (M.S.) degree in Statistics. I am interested, specifically, in Bayesian Inference as well as Dimension Reduction as they pertain to various machine learning algorithms. I find enjoyment in applying these methodologies to serious endeavors such as commodity market predictions, reservoir charicterization, and biostatistical applications, but also on a leisurely level with Poker and Football (NFL) analytics.

@@ -12,11 +12,12 @@ author: John Schwenck
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "index"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -41,7 +42,7 @@ social-network-links:
   email: "jschwenck@tamu.edu"
   github: johnschwenck
   linkedin: john-schwenck
-  rss: true
+  rss: false
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
@@ -57,7 +58,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true

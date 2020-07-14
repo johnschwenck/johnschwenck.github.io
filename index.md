@@ -8,7 +8,7 @@ subtitle: Graduate Student | Statistics | Texas A&M University
 <div class="row">&nbsp;</div>
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="img/Schwenck - Headshot 4.jpg" class="img-responsive" alt="John Schwenck"/></a>
+		<img src="assets/img/Schwenck - Headshot 4.jpg" class="img-responsive" alt="John Schwenck"/></a>
 	</div>
 	<div class="col-md-6">
 	<h3>Contact:</h3>

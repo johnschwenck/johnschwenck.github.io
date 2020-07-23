@@ -9,7 +9,7 @@ tags: [cycling, research]
 
 Exactly one year ago today, on July 19th 2019, I completed what seemed like an insurmountable goal of riding my bicycle 5,775 miles across the North American continent from Central Park, New York City to Seward, Alaska. [Here's a dashboard I made as proof.](https://app.powerbi.com/view?r=eyJrIjoiYjdmYTAzMmEtZjllZS00Mzg4LTljZDMtMTQ1Y2EyODJkNmQ1IiwidCI6IjY4ZjM4MWUzLTQ2ZGEtNDdiOS1iYTU3LTZmMzIyYjhmMGRhMSIsImMiOjN9)
 
-<figure/>
+<figure>
   <img style="float:left;padding-top:20px; padding-bottom:20px; padding-right:20px" width="420" height="270" src="/assets/img/R4R_post/MT Missoula 2.jpg"/>
   <figcaption>Missoula, MT. A few days before crossing into Canada</figcaption>
 </figure>

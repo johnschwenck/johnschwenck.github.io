@@ -156,6 +156,7 @@ Considering the book Into the Wild by Jon Krakauer was a huge inspiration for my
 
 *So many people live within unhappy circumstances and yet will not take the initiative to change their situation because they are conditioned to a life of security, conformity, and conservatism, all of which may appear to give one peace of mind, but in reality nothing is more damaging to the adventurous spirit within a man than a secure future. The very core of a man's living spirit is his passion for adventure. The joy of life comes from our encounters with new experiences and hence there is no greater joy than to have an endlessly changing horizon, for each day to have a new and different sun.*
 
+
 When in doubt, look north to the future. Ride on!
 
 

@@ -10,8 +10,6 @@ tags: [cycling, research]
 Exactly one year ago today, on July 19th 2019, I completed what seemed like an insurmountable goal of riding my bicycle 5,775 miles across the North American continent from Central Park, New York City to Seward, Alaska. [Here's a dashboard I made as proof.](https://app.powerbi.com/view?r=eyJrIjoiYjdmYTAzMmEtZjllZS00Mzg4LTljZDMtMTQ1Y2EyODJkNmQ1IiwidCI6IjY4ZjM4MWUzLTQ2ZGEtNDdiOS1iYTU3LTZmMzIyYjhmMGRhMSIsImMiOjN9)
 
 <img style="float:left;padding-top:20px; padding-bottom:20px; padding-right:20px" width="420" height="270" src="/assets/img/R4R_post/MT Missoula 2.jpg"/>
-*Missoula, MT. A few days before crossing into Canada*
-
 It took 95 days and spanned 13 U.S. states and 3 Canadian provinces. I endured sandstorms, tornadoes, subzero temperatures, thunderstorms, blizzards, mudslides, hailstorms, forest fires, and came within an arm's reach of over 14 different species of voracious wildlife including grizzly bears, moose, bison, and mountain lions all while riding my father's beat-up 28-year-old 1991 Cannondale bicycle.
 
 It was the ultimate test of mental endurance. While I knew it was not going to be some ebullient happy-go-lucky joyride, I never expected to face such an incessant barrage of bad luck. What I encountered was nothing remotely close to what I initially had in mind. Between the never-ending gravel roads and the inclement weather that seemed to follow me no matter what part of the country I rode in, I couldn't seem to catch a break.
@@ -21,7 +19,7 @@ Speaking of bad weather...
 
 Quite comically, within the very first 10 minutes into the trip it started to downpour so hard in NYC that I could barely see in front of me. I ended up doing a full 7-mile loop detour around Central Park. I didn't even realize I did so until I saw at least 50 text messages asking me what on earth I was doing and proceeded to check my Strava recording later that night. Ironically, with that added detour, I only managed to make it back to my hometown - I was off to a great start.
 
-I assume at this point you naturally are asking yourself one of two questions: why I am posting this on a professional networking site and/or why on earth I would ever want to ride my bicycle that far. I'll begin with the latter.
+I assume at this point you naturally are asking yourself why on earth I would ever want to ride my bicycle that far. 
 
 To be completely honest, I wasn't a diehard cyclist prior to that trip. When I think about it, I wasn't even *any* kind of cyclist. I first hopped on a bike and started training for the trip a couple months before I left, and by "training" I mean riding 10-15 miles a few times per week. To put this into perspective, during my trip I averaged around 70-100 miles per day. My initial goal was 50 miles per day until I hit Indiana and saw my first tornado, at which point I convinced myself to start pedaling 100+ miles per day just to get the Hell out of the Midwest.
 
@@ -58,7 +56,7 @@ The day after I finished my trip, a family member asked me what the biggest take
 
 My goals today are a stark contrast to what I had in mind one year ago, but in my opinion if you are the same person now as you were then, you haven't grown at all. I recently came across my [interview with KPAX Montana](https://www.youtube.com/watch?v=r59opEGhA6I&feature=youtu.be) from my trip and was amused by how my research plans have twisted and turned since then. As with most promising ideas there is a natural "hype cycle" that follows, but getting that initial idyllic phase out of the way allowed me to look at previous concepts with more clarity and empiricism and allowed me to better understand the mathematical principles that assess their legitimacy. No matter how seemingly insignificant you may think your ideas are, stay curious and never stop questioning the world around you. Those theories can always be refined down the road.
 
-I realize very few people will ever be able to comprehend what I've had to go through during my trip to achieve such a feat, but I also realize that the lessons and takeaways I've gained are ubiquitous and apply to everyday situations. In the spirit of LinkedIn professionalism, I've come up with a list of 5 lessons learned directly from my trip that have helped me in my career and in other areas of life. My hope is that you don't find these as mere banalities, but that you can somehow relate to them in the future.
+I realize very few people will ever be able to comprehend what I've had to go through during my trip to achieve such a feat, but I also realize that the lessons and takeaways I've gained are ubiquitous and apply to everyday situations. In the spirit of professionalism, I've come up with a list of 5 lessons learned directly from my trip that have helped me in my career and in other areas of life. My hope is that you don't find these as mere banalities, but that you can somehow relate to them in the future.
 
 
 <img style="padding-top:20px; padding-bottom:20px" src="/assets/img/R4R_post/CA rockies.jpg"/>

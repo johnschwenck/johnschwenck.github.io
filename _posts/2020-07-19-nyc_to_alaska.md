@@ -14,7 +14,7 @@ It took 95 days and spanned 13 U.S. states and 3 Canadian provinces. I endured s
 
 It was the ultimate test of mental endurance. While I knew it was not going to be some ebullient happy-go-lucky joyride, I never expected to face such an incessant barrage of bad luck. What I encountered was nothing remotely close to what I initially had in mind. Between the never-ending gravel roads and the inclement weather that seemed to follow me no matter what part of the country I rode in, I couldn't seem to catch a break.
 
-<img style="float:right;padding:90px" width="400" height="400" src="/assets/img/R4R_post/day1.jpg"/>
+<img style="float:right;padding:20px" width="400" height="400" src="/assets/img/R4R_post/day1.jpg"/>
 Speaking of bad weather...
 
 Quite comically, within the very first 10 minutes into the trip it started to downpour so hard in NYC that I could barely see in front of me. I ended up doing a full 7-mile loop detour around Central Park. I didn't even realize I did so until I saw at least 50 text messages asking me what on earth I was doing and proceeded to check my Strava recording later that night. Ironically, with that added detour, I only managed to make it back to my hometown - I was off to a great start.
@@ -27,7 +27,7 @@ I would always have a few humorous anecdotes in my back pocket for reasons to te
 
 However, there was another, perhaps more surprising, reason. As an aspiring statistician, naturally I wanted to conduct research and collect data on myself. If I was going to embark on such an endeavor, I wanted to make sure that I could use it to my advantage. I wasn't content with basic summary statistics of what my average heart rate and total distance were. I insisted on collecting extremely granular data that encapsulated all parts of my medical well-being; health data such as second-by-second heart rate, heart rate variability (HRV), sleep stage duration, blood pressure, nutritional diet information and food logs, activity data, electroencephalography (EEG) data, electrocardiography (ECG) data, and not to mention the dozens of geospatial variables such as elevation, distance, wind speeds, weather, etc.
 
-<img style="padding:90px" src="/assets/img/R4R_post/20190626_114807.jpg"/>
+<img style="padding:20px" src="/assets/img/R4R_post/20190626_114807.jpg"/>
 Growing up, I was always taught that to become a leader, you must learn to lead with your boots on the ground (a military adage from my parents owing to the fact that commanders who fight alongside their subordinates "on the ground" in the actual combat will have their full support, opposed to those in charge who relegate their responsibilities to others). In a research context, if there is an unexplored hypothesis or an underdeveloped area of science, don't wait around for others. Roll up your sleeves, form a plan, and run the experiment yourself.
 
 That unexplored area for me lie in a minor detail of having a fairly unique heart condition (an enlarged aortic root and a bicuspid aortic valve) whose typical profile didn't seem to match my highly active persona. Because of this inconsistency, there wasn't much available research for doctors to safely deduce conclusions from. To err on the side of caution, they suggested I shift away from anaerobic exercise to aerobic exercise. My entire life, I played sports that required vigorous weight lifting exercise (football, rugby, lacrosse), so this was a pretty big adjustment. I was never a big fan of running or swimming, but I was always inspired by my parents' tenacity and passion for cycling. It didn't take long before I saw this as a golden opportunity.
@@ -38,11 +38,12 @@ While perhaps naive at the time and having not yet acquired my theoretical stati
 
 With heart disease being the leading cause of death worldwide, I figured some doctor somewhere in the world could better assist their patients if they could utilize my data to aid in their decision making. If the results of my trip could help just one person in some way, then to me it is a worthwhile endeavor. I therefore felt obligated to contribute my data publicly and host everything through the Harvard Dataverse (found [here](https://dataverse.harvard.edu/dataverse/r4r)).
 
-<img style="float:right; padding:10px" src="/assets/img/R4R_post/twoface.jpg"/>
+<img style="float:right; padding:20px" src="/assets/img/R4R_post/twoface.jpg"/>
 And just like that, I was off. 95 days and 5,775 miles of lugging 100 pounds of gear, perpetually waterlogged clothes from the rain, and a handful of gadgets tracking my every move and frustration from every obstacle I faced. I even had a (now defunct) website that allowed you to track every single data point and map my progress each day. As the image on the right shows (day 1 vs day 95), you could also track the progression of my face!
 
 There were moments of doubt, exasperation, and suffering, but there are not enough words to describe the feeling of crossing the finish line knowing that what you just achieved is more than you (or anyone else for that matter) could have ever imagined.
 
+<img style="padding:90px" src="/assets/img/R4R_post/mountain.jpg"/>
 So here we are, one year later.
 
 I haven't changed the world yet (although I did cross 1/4 of it) and I'm nowhere near the pinnacle of my career. I did, however, learn a few lessons along the way that have helped me in situations I never thought possible.

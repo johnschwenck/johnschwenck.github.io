@@ -159,7 +159,7 @@ Considering the book Into the Wild by Jon Krakauer was a huge inspiration for my
 When in doubt, look north to the future. Ride on!
 
 
-############################################################
+
 
 **John Schwenck**
 

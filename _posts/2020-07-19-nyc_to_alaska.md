@@ -9,12 +9,14 @@ tags: [cycling, research]
 
 Exactly one year ago today, on July 19th 2019, I completed what seemed like an insurmountable goal of riding my bicycle 5,775 miles across the North American continent from Central Park, New York City to Seward, Alaska. [Here's proof.](https://app.powerbi.com/view?r=eyJrIjoiYjdmYTAzMmEtZjllZS00Mzg4LTljZDMtMTQ1Y2EyODJkNmQ1IiwidCI6IjY4ZjM4MWUzLTQ2ZGEtNDdiOS1iYTU3LTZmMzIyYjhmMGRhMSIsImMiOjN9)
 
+<img align="left" width="600" height="350" src="/assets/img/R4R_post/MT Missoula 2.jpg"/>
 It took 95 days and spanned 13 U.S. states and 3 Canadian provinces. I endured sandstorms, tornadoes, subzero temperatures, thunderstorms, blizzards, mudslides, hailstorms, forest fires, and came within an arm's reach of over 14 different species of voracious wildlife including grizzly bears, moose, bison, and mountain lions all while riding my father's beat-up old 1991 Cannondale bicycle.
 
 It was the ultimate test of mental endurance. While I knew it was not going to be some ebullient happy-go-lucky joyride, I never expected to face such an incessant barrage of bad luck. What I encountered was nothing remotely close to what I initially had in mind. Between the never-ending gravel roads and the inclement weather that seemed to follow me no matter what part of the country I rode in, I couldn't seem to catch a break.
 
 Speaking of bad weather...
 
+<img align="right" width="400" height="400" src="/assets/img/R4R_post/day1.jpg"/>
 Quite comically, within the very first 10 minutes into the trip it started to downpour so hard in NYC that I could barely see in front of me. I ended up doing a full 7-mile loop detour around Central Park. I didn't even realize I did so until I saw at least 50 text messages asking me what on earth I was doing and proceeded to check my Strava recording later that night. Ironically, with that added detour, I only managed to make it back to my hometown - I was off to a great start.
 
 I assume at this point you naturally are asking yourself one of two questions: why I am posting this on a professional networking site and/or why on earth I would ever want to ride my bicycle that far. I'll begin with the latter.
@@ -96,7 +98,7 @@ One of the most pivotal decisions I had to make during the trip was when I reach
 
 At that point, the psychological toll of having been perpetually rained on with horrible bouts of weather almost every single day began to wear me out. Not to mention, I could literally see Alaska off in the distance. The temptation was analogous to dangling a doughnut in front of someone trying to lose weight.
 
-![Jakes Corner, Yukon Territory, Canada](/assets/img/R4R_post/newjakescorner.jpg)
+![Jakes Corner, Yukon Territory, Canada](/assets/img/R4R_post/newjakescorner.png)
 
 I kept going. I knew that if I finished in Skagway, I would never forgive myself for not going all the way. I've been dreaming of going to Alaska since I was young and I wasn't about to trip in front of the finish line and not explore all that it has to offer. From Jake's corner, I rode nearly 700 miles up to Fairbanks. Once I made it to Fairbanks, I figured I also wasn't really in Alaska unless I got to see Mt Denali, the highest point in North America, so I rode another 250 miles down to Talkeetna. Then, for logistical reasons, I had to make it down to the coast to catch a boat back down to the lower 48 so that I could return home. Tack on another 250 miles down to Seward. By the time I was finished, I had rode an additional 1,200 miles more than if I simply ended my trip in Skagway.
 

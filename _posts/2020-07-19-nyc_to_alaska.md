@@ -160,6 +160,9 @@ When in doubt, look north to the future. Ride on!
 
 
 ###################################
+
 John Schwenck
+
 Graduate Student at Texas A&M University | Class of 2021
+
 Alumni of Penn State University | Class of 2016

@@ -70,7 +70,7 @@ I truly believe that taking a leap of faith into the unknown will inevitably mak
 
 *"Life is either a daring adventure or nothing" - Helen Keller*
 
-<img style="padding-top:20px; padding-bottom:20px" src="/assets/img/R4R_post/20190702_230912.jpg.jpg"/>
+<img style="padding-top:20px; padding-bottom:20px" src="/assets/img/R4R_post/20190702_230912.jpg"/>
 
 ##### Takeaway #2: Don't be a selfish bastard and treat everyone with respect
 

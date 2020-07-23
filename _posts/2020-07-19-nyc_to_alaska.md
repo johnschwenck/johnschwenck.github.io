@@ -152,8 +152,8 @@ If you want more of the details of the actual trip, there's no better way to vie
 
 Considering the book Into the Wild by Jon Krakauer was a huge inspiration for my Alaskan final destination, it is only fitting that I end this post with a quote from Christopher "Alexander Supertramp" McCandless:
 
-<img style="float:right;padding:20px; clear:right" width="400" height="400" src="/assets/img/R4R_post/142-healy.jpg"/>
-<img style="float:right;padding:20px; clear:right" width="400" height="250" src="/assets/img/R4R_post/into the wild2.jpg"/>
+<img style="float:right;padding-left:20px;padding-top:20px; clear:right" width="400" height="400" src="/assets/img/R4R_post/142-healy.jpg"/>
+<img style="float:right;padding-left:20px;padding-bottom:20px; clear:right" width="400" height="250" src="/assets/img/R4R_post/into the wild2.jpg"/>
 *So many people live within unhappy circumstances and yet will not take the initiative to change their situation because they are conditioned to a life of security, conformity, and conservatism, all of which may appear to give one peace of mind, but in reality nothing is more damaging to the adventurous spirit within a man than a secure future. The very core of a man's living spirit is his passion for adventure. The joy of life comes from our encounters with new experiences and hence there is no greater joy than to have an endlessly changing horizon, for each day to have a new and different sun.*
 
 When in doubt, look north to the future. Ride on!

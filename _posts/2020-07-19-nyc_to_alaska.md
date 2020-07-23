@@ -9,7 +9,7 @@ tags: [cycling, research]
 
 Exactly one year ago today, on July 19th 2019, I completed what seemed like an insurmountable goal of riding my bicycle 5,775 miles across the North American continent from Central Park, New York City to Seward, Alaska. [Here's proof.](https://app.powerbi.com/view?r=eyJrIjoiYjdmYTAzMmEtZjllZS00Mzg4LTljZDMtMTQ1Y2EyODJkNmQ1IiwidCI6IjY4ZjM4MWUzLTQ2ZGEtNDdiOS1iYTU3LTZmMzIyYjhmMGRhMSIsImMiOjN9)
 
-<img style="float:left;padding:20px" width="450" height="250" src="/assets/img/R4R_post/MT Missoula 2.jpg"/>
+<img style="float:left;padding:20px" width="400" height="250" src="/assets/img/R4R_post/MT Missoula 2.jpg"/>
 It took 95 days and spanned 13 U.S. states and 3 Canadian provinces. I endured sandstorms, tornadoes, subzero temperatures, thunderstorms, blizzards, mudslides, hailstorms, forest fires, and came within an arm's reach of over 14 different species of voracious wildlife including grizzly bears, moose, bison, and mountain lions all while riding my father's beat-up old 1991 Cannondale bicycle.
 
 It was the ultimate test of mental endurance. While I knew it was not going to be some ebullient happy-go-lucky joyride, I never expected to face such an incessant barrage of bad luck. What I encountered was nothing remotely close to what I initially had in mind. Between the never-ending gravel roads and the inclement weather that seemed to follow me no matter what part of the country I rode in, I couldn't seem to catch a break.
@@ -37,9 +37,8 @@ Not only would this become one of, if not, *the* largest data collection efforts
 
 While perhaps naive at the time and having not yet acquired my theoretical statistics foundations, my mentality was to collect as much data as I can and interpret it all later during my graduate studies. It somehow never occurred to me to consider the most basic ramifications of collecting non-iid data for a single sample. However, I knew that despite this idea being merely nothing more than a super involved uncontrolled n-of-1 pilot study, I was determined to at least try and make sense of it all. The conclusions I would draw would not be representative of the population, but would at the very least allow me to build personalized algorithms for my own well-being (keep an eye out for a subsequent post on this). Not to mention it would also serve as a baseline and something to improve upon in the future with more participants.
 
-With heart disease being the leading cause of death worldwide, I figured some doctor somewhere in the world could better assist their patients if they could utilize my data to aid in their decision making. If the results of my trip could help just one person in some way, then to me it is a worthwhile endeavor. I therefore felt obligated to contribute my data publicly and host everything through the Harvard Dataverse (found [here](https://dataverse.harvard.edu/dataverse/r4r)).
-
 <img style="float:right; padding:20px" src="/assets/img/R4R_post/twoface.jpg"/>
+With heart disease being the leading cause of death worldwide, I figured some doctor somewhere in the world could better assist their patients if they could utilize my data to aid in their decision making. If the results of my trip could help just one person in some way, then to me it is a worthwhile endeavor. I therefore felt obligated to contribute my data publicly and host everything through the Harvard Dataverse (found [here](https://dataverse.harvard.edu/dataverse/r4r)).
 
 And just like that, I was off. 95 days and 5,775 miles of lugging 100 pounds of gear, perpetually waterlogged clothes from the rain, and a handful of gadgets tracking my every move and frustration from every obstacle I faced. I even had a (now defunct) website that allowed you to track every single data point and map my progress each day. As the image on the right shows (day 1 vs day 95), you could also track the progression of my face!
 
@@ -59,7 +58,7 @@ My goals today are a stark contrast to what I had in mind one year ago, but in m
 
 I realize very few people will ever be able to comprehend what I've had to go through during my trip to achieve such a feat, but I also realize that the lessons and takeaways I've gained are ubiquitous and apply to everyday situations. In the spirit of LinkedIn professionalism, I've come up with a list of 5 lessons learned directly from my trip that have helped me in my career and in other areas of life. My hope is that you don't find these as mere banalities, but that you can somehow relate to them in the future.
 
-<img style="padding:20px" src="/assets/img/R4R_post/CA rockies.jpg"/>
+<img style="padding-top:20px; padding-bottom:20px" src="/assets/img/R4R_post/CA rockies.jpg"/>
 
 ##### Takeaway #1: Don't look back
 
@@ -71,6 +70,7 @@ I truly believe that taking a leap of faith into the unknown will inevitably mak
 
 *"Life is either a daring adventure or nothing" - Helen Keller*
 
+<img style="padding-top:20px; padding-bottom:20px" src="/assets/img/R4R_post/20190702_230912.jpg.jpg"/>
 
 ##### Takeaway #2: Don't be a selfish bastard and treat everyone with respect
 

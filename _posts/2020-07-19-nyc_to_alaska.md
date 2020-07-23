@@ -150,7 +150,7 @@ If you want more of the details of the actual trip, there's no better way to vie
 - **Number of days rained:** 51 of 95 days (52.64%)
 - **Wildlife encountered:** grizzly bear, black bear, moose, bison, horse, porcupine, wild dogs, antelope, mountain goat, bald eagle, sea otter, whale, marmot, big horn sheep, cow, snake
 
-<img style="border:solid black; float:right;padding-left:20px;padding-top:20px; clear:right" width="400" height="400" src="/assets/img/R4R_post/142-healy.jpg"/>
+<img style="float:right;padding-left:20px;padding-top:20px; clear:right" width="400" height="400" src="/assets/img/R4R_post/142-healy.jpg"/>
 <img style="float:right;padding-left:20px;padding-top:10px;padding-bottom:20px; clear:right" width="400" height="250" src="/assets/img/R4R_post/into the wild2.jpg"/>
 Considering the book Into the Wild by Jon Krakauer was a huge inspiration for my Alaskan final destination, it is only fitting that I end this post with a quote from Christopher "Alexander Supertramp" McCandless:
 

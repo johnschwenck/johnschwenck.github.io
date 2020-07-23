@@ -58,6 +58,7 @@ My goals today are a stark contrast to what I had in mind one year ago, but in m
 
 I realize very few people will ever be able to comprehend what I've had to go through during my trip to achieve such a feat, but I also realize that the lessons and takeaways I've gained are ubiquitous and apply to everyday situations. In the spirit of LinkedIn professionalism, I've come up with a list of 5 lessons learned directly from my trip that have helped me in my career and in other areas of life. My hope is that you don't find these as mere banalities, but that you can somehow relate to them in the future.
 
+
 <img style="padding-top:20px; padding-bottom:20px" src="/assets/img/R4R_post/CA rockies.jpg"/>
 ##### Takeaway #1: Don't look back
 
@@ -69,6 +70,7 @@ I truly believe that taking a leap of faith into the unknown will inevitably mak
 
 *"Life is either a daring adventure or nothing" - Helen Keller*
 
+
 <img style="padding-top:20px; padding-bottom:20px" src="/assets/img/R4R_post/20190702_230912.jpg"/>
 ##### Takeaway #2: Don't be a selfish bastard and treat everyone with respect
 
@@ -77,6 +79,7 @@ I couch-surfed the majority of the way across "the lower 48" (U.S. states). The 
 Not judging others and being selfless is such a simple concept, but for some reason it never seems to get through to people. At my former company, I was fortunate to have experienced first-hand arguably the best manger you could have, but a close colleague of mine unfortunately had the polar opposite. It was straight out of a business textbook. My manager grew himself by growing his team first and always knew when to teach and when to let us struggle through to find the answers ourselves. He took the fall for our team's failures and spread the credit when we succeeded. My colleague's manager on the other hand was a nightmare and was a completely insecure, self-seeking person who took the credit for projects he never even touched. My former manager has graduated to Vice President; the other manager has remained at supervisor. They both started at the same entry-level position at the same time 8 years ago. Don't be selfish.
 
 *"Great minds discuss ideas; average minds discuss events; small minds discuss people" - Eleanor Roosevelt*
+
 
 <img style="padding-top:20px; padding-bottom:20px" src="/assets/img/R4R_post/20190602_210127.jpg"/>
 ##### Takeaway #3: Control what you can, forget what you cannot, and be dynamic
@@ -99,6 +102,7 @@ The ups and downs of life are inevitable, it is up to you to choose how to handl
 
 *"Do what you can, with what you have, where you are" - Theodore Roosevelt*
 
+
 <img style="padding-top:20px; padding-bottom:20px" src="/assets/img/R4R_post/20190609_171136.jpg"/>
 ##### Takeaway #4: Focus on Today.
 
@@ -119,7 +123,7 @@ We often get lost thinking about how the repercussions of our actions today will
 *"Many of life's failures are people who did not realize how close they were to success when they gave up." - Thomas Edison*
 
 
-
+<img style="padding-top:20px; padding-bottom:20px" src="/assets/img/R4R_post/20190702_231844.jpg"/>
 ##### Takeaway #5: Be comfortable being uncomfortable
 
 I tend to think of the entire trip as two separate excursions: the lower 48 and Canada/Alaska. For the first half throughout the lower 48, I relied on couch-surfing, battling abominable road conditions that tried to slow me down in every way possible, and subtly camping in places that I probably shouldn't have been. It was a blitzkrieg. The second phase, on the other hand, was completely different. It was a war of attrition. Weather wasn't my main problem anymore: it was survival. There were week-long 500-mile stretches without any kind of grocery store or gas station, or cell-phone service for that matter. It was terrifying, yet exhilarating.
@@ -133,7 +137,7 @@ Therein lies the difference between a vacation and an adventure. An adventure is
 *"If you're going through Hell, keep going" - Winston Churchill*
 
 
-
+<img style="padding-top:20px; padding-bottom:20px" src="/assets/img/R4R_post/20190608_154828.jpg"/>
 If you want more of the details of the actual trip, there's no better way to view it than through the data. I'll throw in another shameless plug for my dashboard once again here, but as a thank you for making it to the end of my first LinkedIn post, I'll also leave you with a few fun statistics (prone to device measurement error):
 
 - Farthest distance: 182.2 miles (July 3rd/4th, 2019)

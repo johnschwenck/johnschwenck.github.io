@@ -9,7 +9,7 @@ tags: [cycling, research]
 
 Exactly one year ago today, on July 19th 2019, I completed what seemed like an insurmountable goal of riding my bicycle 5,775 miles across the North American continent from Central Park, New York City to Seward, Alaska. [Here's proof.](https://app.powerbi.com/view?r=eyJrIjoiYjdmYTAzMmEtZjllZS00Mzg4LTljZDMtMTQ1Y2EyODJkNmQ1IiwidCI6IjY4ZjM4MWUzLTQ2ZGEtNDdiOS1iYTU3LTZmMzIyYjhmMGRhMSIsImMiOjN9)
 
-<img style="float:left;padding:20px" width="400" height="250" src="/assets/img/R4R_post/MT Missoula 2.jpg"/>
+<img style="float:left;padding-top:20px; padding-bottom:20px; padding-right:20px" width="400" height="250" src="/assets/img/R4R_post/MT Missoula 2.jpg"/>
 It took 95 days and spanned 13 U.S. states and 3 Canadian provinces. I endured sandstorms, tornadoes, subzero temperatures, thunderstorms, blizzards, mudslides, hailstorms, forest fires, and came within an arm's reach of over 14 different species of voracious wildlife including grizzly bears, moose, bison, and mountain lions all while riding my father's beat-up old 1991 Cannondale bicycle.
 
 It was the ultimate test of mental endurance. While I knew it was not going to be some ebullient happy-go-lucky joyride, I never expected to face such an incessant barrage of bad luck. What I encountered was nothing remotely close to what I initially had in mind. Between the never-ending gravel roads and the inclement weather that seemed to follow me no matter what part of the country I rode in, I couldn't seem to catch a break.
@@ -27,7 +27,7 @@ I would always have a few humorous anecdotes in my back pocket for reasons to te
 
 However, there was another, perhaps more surprising, reason. As an aspiring statistician, naturally I wanted to conduct research and collect data on myself. If I was going to embark on such an endeavor, I wanted to make sure that I could use it to my advantage. I wasn't content with basic summary statistics of what my average heart rate and total distance were. I insisted on collecting extremely granular data that encapsulated all parts of my medical well-being; health data such as second-by-second heart rate, heart rate variability (HRV), sleep stage duration, blood pressure, nutritional diet information and food logs, activity data, electroencephalography (EEG) data, electrocardiography (ECG) data, and not to mention the dozens of geospatial variables such as elevation, distance, wind speeds, weather, etc.
 
-<img style="padding:20px" src="/assets/img/R4R_post/20190626_114807.jpg"/>
+<img style="padding-top:20px; padding-bottom:20px" src="/assets/img/R4R_post/20190626_114807.jpg"/>
 
 Growing up, I was always taught that to become a leader, you must learn to lead with your boots on the ground (a military adage from my parents owing to the fact that commanders who fight alongside their subordinates "on the ground" in the actual combat will have their full support, opposed to those in charge who relegate their responsibilities to others). In a research context, if there is an unexplored hypothesis or an underdeveloped area of science, don't wait around for others. Roll up your sleeves, form a plan, and run the experiment yourself.
 
@@ -44,7 +44,7 @@ And just like that, I was off. 95 days and 5,775 miles of lugging 100 pounds of 
 
 There were moments of doubt, exasperation, and suffering, but there are not enough words to describe the feeling of crossing the finish line knowing that what you just achieved is more than you (or anyone else for that matter) could have ever imagined.
 
-<img style="padding:20px" src="/assets/img/R4R_post/mountain.jpg"/>
+<img style="padding-top:20px; padding-bottom:20px" src="/assets/img/R4R_post/mountain.jpg"/>
 
 So here we are, one year later.
 

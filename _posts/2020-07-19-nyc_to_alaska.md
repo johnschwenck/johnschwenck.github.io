@@ -86,9 +86,9 @@ Not judging others and being selfless is such a simple concept, but for some rea
 
 Bar none, the lowest point of my trip was being stuck in Casper, WY for 4 days because there was literally too much snow for me to continue riding - even if I wanted to.
 
-<img style="float:right; padding-top:20px; padding-bottom:10px; padding-left:20px" width="350" height="250" src="/assets/img/R4R_post/20190625_104425.jpg"/>
-<img style="float:right; padding-top:10px; padding-bottom:10px; padding-left:20px" width="350" height="250" src="/assets/img/R4R_post/20190625_104425.jpg"/>
-<img style="float:right; padding-top:10px; padding-bottom:20px; padding-left:20px" width="350" height="250" src="/assets/img/R4R_post/20190625_104425.jpg"/>
+<img style="float:right; padding-top:20px; padding-bottom:10px; padding-left:20px" width="400" height="250" src="/assets/img/R4R_post/20190625_104425.jpg"/>
+<img style="float:right; padding-top:10px; padding-bottom:10px; padding-left:20px" width="400" height="250" src="/assets/img/R4R_post/20190625_104425.jpg"/>
+<img style="float:right; padding-top:10px; padding-bottom:20px; padding-left:20px" width="400" height="250" src="/assets/img/R4R_post/20190625_104425.jpg"/>
 By sheer luck, on the day before all the snow, I met a guy on his motorcycle who had been returning from his own mini-adventure. He was so perplexed by my trip that he offered his home in Casper in the event I needed somewhere to stay. The distance from the rest stop where I met him to his house was a solid 80 or so miles away and I had already rode 40 miles that day. I didn't think I would make it that far, but once the lightning started chasing me I realized I didn't have any other option. Once I made it there, I was then stuck as it proceeded to snow day-in, day-out for the next 4 days. (On a side note, I am beyond grateful to have met such a genuine person and wonderful family who spared me the hassle of setting up a tent in the snow for that period of time.)
 
 I had a terrible disposition up to that point because there were only a handful of days with good weather since I began and every other day was terrible. Before long, it started to really get to my head and because I was so fed up with all of it, I started to contemplate alternative courses of action. My most convincing alternative was to change my target from Alaska to Seattle so that I could at least go coast to coast.

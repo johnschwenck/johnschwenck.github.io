@@ -81,7 +81,7 @@ Not judging others and being selfless is such a simple concept, but for some rea
 *"Great minds discuss ideas; average minds discuss events; small minds discuss people" - Eleanor Roosevelt*
 
 
-<img style="padding-top:20px; padding-bottom:20px" src="/assets/img/R4R_post/20190602_210127.jpg"/>
+<img style="padding-top:20px; padding-bottom:20px" src="/assets/img/R4R_post/20190701_202101.jpg"/>
 ##### Takeaway #3: Control what you can, forget what you cannot, and be dynamic
 
 Bar none, the lowest point of my trip was being stuck in Casper, WY for 4 days because there was literally too much snow for me to continue riding - even if I wanted to.
@@ -138,17 +138,17 @@ Therein lies the difference between a vacation and an adventure. An adventure is
 
 
 <img style="padding-top:20px; padding-bottom:20px" src="/assets/img/R4R_post/20190608_154828.jpg"/>
-If you want more of the details of the actual trip, there's no better way to view it than through the data. I'll throw in another shameless plug for my dashboard once again here, but as a thank you for making it to the end of my first LinkedIn post, I'll also leave you with a few fun statistics (prone to device measurement error):
+If you want more of the details of the actual trip, there's no better way to view it than through the data. I'll throw in another shameless plug for my dashboard once again [here](https://app.powerbi.com/view?r=eyJrIjoiYjdmYTAzMmEtZjllZS00Mzg4LTljZDMtMTQ1Y2EyODJkNmQ1IiwidCI6IjY4ZjM4MWUzLTQ2ZGEtNDdiOS1iYTU3LTZmMzIyYjhmMGRhMSIsImMiOjN9), but as a thank you for making it to the end of my first LinkedIn post, I'll also leave you with a few fun statistics (prone to device measurement error):
 
-- Farthest distance: 182.2 miles (July 3rd/4th, 2019)
-- Average distance: 71.49 miles per day
-- Fastest speed: 41.26 mph (April 16th, 2019)
-- Highest altitude: 6,860 feet (June 10th, 2019)
-- Steepest gradient (Incline): +30.89 degrees (April 17th, 2019)
-- Steepest gradient (Decline): -33.41 degrees (April 25th, 2019)
-- Strongest headwind: 31.09 mph (May 1st, 2019)
-- Number of days rained: 51 of 95 days (52.64%)
-- Wildlife encountered: grizzly bear, black bear, moose, bison, horse, porcupine, wild dogs, antelope, mountain goat, bald eagle, sea otter, whale, marmot, big horn sheep, cow, snake
+- **Farthest distance:** 182.2 miles *(July 3rd/4th, 2019)*
+- **Average distance:** 71.49 miles per day
+- **Fastest speed:** 41.26 mph *(April 16th, 2019)*
+- **Highest altitude:** 6,860 feet *(June 10th, 2019)*
+- **Steepest gradient (Incline):** +30.89 degrees *(April 17th, 2019)*
+- **Steepest gradient (Decline):** -33.41 degrees *(April 25th, 2019)*
+- **Strongest headwind:** 31.09 mph *(May 1st, 2019)*
+- **Number of days rained:** 51 of 95 days (52.64%)
+- **Wildlife encountered:** grizzly bear, black bear, moose, bison, horse, porcupine, wild dogs, antelope, mountain goat, bald eagle, sea otter, whale, marmot, big horn sheep, cow, snake
 
 Considering the book Into the Wild by Jon Krakauer was a huge inspiration for my Alaskan final destination, it is only fitting that I end this post with a quote from Christopher "Alexander Supertramp" McCandless:
 

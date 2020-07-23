@@ -10,6 +10,7 @@ tags: [cycling, research]
 Exactly one year ago today, on July 19th 2019, I completed what seemed like an insurmountable goal of riding my bicycle 5,775 miles across the North American continent from Central Park, New York City to Seward, Alaska. [Here's a dashboard I made as proof.](https://app.powerbi.com/view?r=eyJrIjoiYjdmYTAzMmEtZjllZS00Mzg4LTljZDMtMTQ1Y2EyODJkNmQ1IiwidCI6IjY4ZjM4MWUzLTQ2ZGEtNDdiOS1iYTU3LTZmMzIyYjhmMGRhMSIsImMiOjN9)
 
 <img style="float:left;padding-top:20px; padding-bottom:20px; padding-right:20px" width="420" height="270" src="/assets/img/R4R_post/MT Missoula 2.jpg"/>
+<figcaption>Missoula, MT. A few days before crossing into Canada</figcaption>
 It took 95 days and spanned 13 U.S. states and 3 Canadian provinces. I endured sandstorms, tornadoes, subzero temperatures, thunderstorms, blizzards, mudslides, hailstorms, forest fires, and came within an arm's reach of over 14 different species of voracious wildlife including grizzly bears, moose, bison, and mountain lions all while riding my father's beat-up 28-year-old 1991 Cannondale bicycle.
 
 It was the ultimate test of mental endurance. While I knew it was not going to be some ebullient happy-go-lucky joyride, I never expected to face such an incessant barrage of bad luck. What I encountered was nothing remotely close to what I initially had in mind. Between the never-ending gravel roads and the inclement weather that seemed to follow me no matter what part of the country I rode in, I couldn't seem to catch a break.

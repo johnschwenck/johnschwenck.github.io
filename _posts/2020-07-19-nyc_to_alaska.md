@@ -7,7 +7,7 @@ date: 2020-07-19
 tags: [cycling, research]
 ---
 
-Exactly one year ago today, on July 19th 2019, I completed what seemed like an insurmountable goal of riding my bicycle 5,775 miles across the North American continent from Central Park, New York City to Seward, Alaska. [Here's proof.](https://app.powerbi.com/view?r=eyJrIjoiYjdmYTAzMmEtZjllZS00Mzg4LTljZDMtMTQ1Y2EyODJkNmQ1IiwidCI6IjY4ZjM4MWUzLTQ2ZGEtNDdiOS1iYTU3LTZmMzIyYjhmMGRhMSIsImMiOjN9)
+Exactly one year ago today, on July 19th 2019, I completed what seemed like an insurmountable goal of riding my bicycle 5,775 miles across the North American continent from Central Park, New York City to Seward, Alaska. [Here's a dashboard I made as proof.](https://app.powerbi.com/view?r=eyJrIjoiYjdmYTAzMmEtZjllZS00Mzg4LTljZDMtMTQ1Y2EyODJkNmQ1IiwidCI6IjY4ZjM4MWUzLTQ2ZGEtNDdiOS1iYTU3LTZmMzIyYjhmMGRhMSIsImMiOjN9)
 
 <img style="float:left;padding-top:20px; padding-bottom:20px; padding-right:20px" width="420" height="270" src="/assets/img/R4R_post/MT Missoula 2.jpg"/>
 It took 95 days and spanned 13 U.S. states and 3 Canadian provinces. I endured sandstorms, tornadoes, subzero temperatures, thunderstorms, blizzards, mudslides, hailstorms, forest fires, and came within an arm's reach of over 14 different species of voracious wildlife including grizzly bears, moose, bison, and mountain lions all while riding my father's beat-up 28-year-old 1991 Cannondale bicycle.
@@ -152,6 +152,8 @@ If you want more of the details of the actual trip, there's no better way to vie
 
 Considering the book Into the Wild by Jon Krakauer was a huge inspiration for my Alaskan final destination, it is only fitting that I end this post with a quote from Christopher "Alexander Supertramp" McCandless:
 
+<img style="float:right;padding:20px; clear:right" width="400" height="400" src="/assets/img/R4R_post/142-healy.jpg"/>
+<img style="float:right;padding:20px; clear:right" width="400" height="400" src="/assets/img/R4R_post/into the wild2.jpg"/>
 *So many people live within unhappy circumstances and yet will not take the initiative to change their situation because they are conditioned to a life of security, conformity, and conservatism, all of which may appear to give one peace of mind, but in reality nothing is more damaging to the adventurous spirit within a man than a secure future. The very core of a man's living spirit is his passion for adventure. The joy of life comes from our encounters with new experiences and hence there is no greater joy than to have an endlessly changing horizon, for each day to have a new and different sun.*
 
 When in doubt, look north to the future. Ride on!

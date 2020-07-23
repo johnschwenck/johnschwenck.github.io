@@ -9,14 +9,14 @@ tags: [cycling, research]
 
 Exactly one year ago today, on July 19th 2019, I completed what seemed like an insurmountable goal of riding my bicycle 5,775 miles across the North American continent from Central Park, New York City to Seward, Alaska. [Here's proof.](https://app.powerbi.com/view?r=eyJrIjoiYjdmYTAzMmEtZjllZS00Mzg4LTljZDMtMTQ1Y2EyODJkNmQ1IiwidCI6IjY4ZjM4MWUzLTQ2ZGEtNDdiOS1iYTU3LTZmMzIyYjhmMGRhMSIsImMiOjN9)
 
-<img align="left" width="600" height="350" src="/assets/img/R4R_post/MT Missoula 2.jpg"/>
+<img align="left" width="450" height="250" class="padding" src="/assets/img/R4R_post/MT Missoula 2.jpg"/>
 It took 95 days and spanned 13 U.S. states and 3 Canadian provinces. I endured sandstorms, tornadoes, subzero temperatures, thunderstorms, blizzards, mudslides, hailstorms, forest fires, and came within an arm's reach of over 14 different species of voracious wildlife including grizzly bears, moose, bison, and mountain lions all while riding my father's beat-up old 1991 Cannondale bicycle.
 
 It was the ultimate test of mental endurance. While I knew it was not going to be some ebullient happy-go-lucky joyride, I never expected to face such an incessant barrage of bad luck. What I encountered was nothing remotely close to what I initially had in mind. Between the never-ending gravel roads and the inclement weather that seemed to follow me no matter what part of the country I rode in, I couldn't seem to catch a break.
 
 Speaking of bad weather...
 
-<img align="right" width="400" height="400" src="/assets/img/R4R_post/day1.jpg"/>
+<img style="float:right" width="400" height="400" src="/assets/img/R4R_post/day1.jpg"/>
 Quite comically, within the very first 10 minutes into the trip it started to downpour so hard in NYC that I could barely see in front of me. I ended up doing a full 7-mile loop detour around Central Park. I didn't even realize I did so until I saw at least 50 text messages asking me what on earth I was doing and proceeded to check my Strava recording later that night. Ironically, with that added detour, I only managed to make it back to my hometown - I was off to a great start.
 
 I assume at this point you naturally are asking yourself one of two questions: why I am posting this on a professional networking site and/or why on earth I would ever want to ride my bicycle that far. I'll begin with the latter.

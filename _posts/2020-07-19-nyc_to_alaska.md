@@ -59,7 +59,6 @@ My goals today are a stark contrast to what I had in mind one year ago, but in m
 I realize very few people will ever be able to comprehend what I've had to go through during my trip to achieve such a feat, but I also realize that the lessons and takeaways I've gained are ubiquitous and apply to everyday situations. In the spirit of LinkedIn professionalism, I've come up with a list of 5 lessons learned directly from my trip that have helped me in my career and in other areas of life. My hope is that you don't find these as mere banalities, but that you can somehow relate to them in the future.
 
 <img style="padding-top:20px; padding-bottom:20px" src="/assets/img/R4R_post/CA rockies.jpg"/>
-
 ##### Takeaway #1: Don't look back
 
 I will never forget the morning just before arriving in Central Park when I started thinking to myself, "what if I don't make it?" and immediately felt anxious and nervous about what would ensue. I was leaving a great job that was stable and paid well to pursue the unknown. It didn't help that once the word got out that day about my trip that seemingly every news reporter in the area was ringing my phone off the hook asking a million questions I did not have the answers to.
@@ -71,7 +70,6 @@ I truly believe that taking a leap of faith into the unknown will inevitably mak
 *"Life is either a daring adventure or nothing" - Helen Keller*
 
 <img style="padding-top:20px; padding-bottom:20px" src="/assets/img/R4R_post/20190702_230912.jpg"/>
-
 ##### Takeaway #2: Don't be a selfish bastard and treat everyone with respect
 
 I couch-surfed the majority of the way across "the lower 48" (U.S. states). The single most defining moment of my trip was in the middle of Illinois. The guy I was going to stay with for the night texted me letting me know that he had been preparing a nice dinner for me for when I got there and that he was excited to talk and hear about my trip thus far. He lived in a poverty-stricken trailer park home where abandoned cars were decaying in the lawn with missing tires, rabid dogs abound, and every other trailer was dilapidated. To my surprise, and despite the ominous atmosphere, he ended up being one of the most selfless kindhearted people I've ever met in my entire life. The dinner he made wasn't anything special; it was a microwave dinner with a side of wings and a soda. He literally had nothing, but he was a hard-working guy who, no matter how many lemons life threw at him, was always willing to care for other people and made it his priority to make them feel welcome and comfortable. There is a lot to be learned in a professional setting from people like him.
@@ -81,7 +79,6 @@ Not judging others and being selfless is such a simple concept, but for some rea
 *"Great minds discuss ideas; average minds discuss events; small minds discuss people" - Eleanor Roosevelt*
 
 <img style="padding-top:20px; padding-bottom:20px" src="/assets/img/R4R_post/20190602_210127.jpg"/>
-
 ##### Takeaway #3: Control what you can, forget what you cannot, and be dynamic
 
 Bar none, the lowest point of my trip was being stuck in Casper, WY for 4 days because there was literally too much snow for me to continue riding - even if I wanted to.
@@ -102,7 +99,7 @@ The ups and downs of life are inevitable, it is up to you to choose how to handl
 
 *"Do what you can, with what you have, where you are" - Theodore Roosevelt*
 
-
+<img style="padding-top:20px; padding-bottom:20px" src="/assets/img/R4R_post/20190609_171136.jpg"/>
 ##### Takeaway #4: Focus on Today.
 
 One of the most pivotal decisions I had to make during the trip was when I reached Jake's Corner in the Yukon Territory (Canada); I had to decide whether to peel off down towards Skagway (right near Juneau in the southern panhandle of Alaska) and finish the trip within a day or two, or to continue riding into mainland Alaska.

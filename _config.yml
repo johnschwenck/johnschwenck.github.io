@@ -15,10 +15,10 @@ navbar-links:
   Home: "index"
   About Me: "aboutme"
   Code:
-    Python:
+    - Python:
       - ERCOT_scraper: "https://github.com/johnschwenck/ERCOT_scraper"
       - NFL_stats
-    R:
+    - R:
       - iglu: "https://github.com/johnschwenck/iglu"
       - "abpm"
   Dashboards:

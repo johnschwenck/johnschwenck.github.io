@@ -15,7 +15,7 @@ navbar-links:
   Home: "index"
   About Me: "aboutme"
   Code:
-    - Python:
+    - Python: "python_code"
       #- ERCOT_scraper: "https://github.com/johnschwenck/ERCOT_scraper"
       #- NFL_stats
     - R:

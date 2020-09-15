@@ -25,8 +25,8 @@ navbar-links:
   Dashboards:
     - R4R - NYC to Alaska: "https://app.powerbi.com/view?r=eyJrIjoiYjdmYTAzMmEtZjllZS00Mzg4LTljZDMtMTQ1Y2EyODJkNmQ1IiwidCI6IjY4ZjM4MWUzLTQ2ZGEtNDdiOS1iYTU3LTZmMzIyYjhmMGRhMSIsImMiOjN9"
   Walkthroughs:
-    - "googledrive"
-    - "dropbox"
+    - googledrive:
+    - dropbox:
   CV / Resume: "https://johnschwenck.github.io/Schwenck - Resume.pdf"
 
 # --- Logo --- #

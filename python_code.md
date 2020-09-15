@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Python Code
-subtitle: filler
+subtitle: A list of Python packages available for download
 ---
 
 ### ERCOT Information Extraction Tool *([ERCOT_scraper](https://github.com/johnschwenck/ERCOT_scraper))*

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: R Code
-subtitle: Complete List of software packages for R
+subtitle: A List of R packages available for download
 ---
 
 ### *[iglu](https://github.com/johnschwenck/iglu)*: Interpreting Glucose Data from Continuous Glucose Monitors

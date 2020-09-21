@@ -13,3 +13,10 @@ While still in development, this data will be utilized to assess trading pattern
 This project is currently under development.
 
 ESPN offers statistics that can be accessed for personal use for both individual athletes as well as team-wide. The NFL_stats packages seeks to extract pertinent information regarding schedules, team stats, rosters / depth charts, etc.
+
+### NYC Open Data - NYPD Crime Analysis
+This project is currently under development.
+
+With the abundance of publicly available and open-source data from NYC agencies, **NYC Open Data** offers an API that is utilized to extract geo-referenced spatio-temporal data surrounding various crimes. This project seeks to take this data a step further by obtaining text information from the NYPD Crime Stoppers Twitter account to help predict the most likely regions of crime for a given "tip" or crime tweet. Given the immense quantity of available data, both mathematical and computational understanding of such data structures are crucial. 
+
+From a statistics perspective, Bayesian methods will be used and spatial interaction networks will model the dependencies between the locations of the initial complaints and the arrests. The ultimate goal is to create an interactive dashboard that will incorporate and visualize all necessary information.

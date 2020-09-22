@@ -23,7 +23,7 @@ navbar-links:
   Walkthroughs:
     - googledrive:
     - dropbox:
-  CV / Resume: <a href = "https://johnschwenck.github.io/Schwenck - Resume.pdf" target="_blank">Click here for CV</a> #"https://johnschwenck.github.io/Schwenck - Resume.pdf"
+  CV / Resume: <a href = "https://johnschwenck.github.io/Schwenck - Resume.pdf" target="_blank"/a> #"https://johnschwenck.github.io/Schwenck - Resume.pdf"
 
 # --- Logo --- #
 

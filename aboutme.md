@@ -25,6 +25,8 @@ I maintain an ***advanced proficiency*** with ***R, Python,*** and ***VBA / Exce
 ### Personal Research
 In 2019, I rode my bicycle 5,775 miles from New York City to Seward, Alaska to collect granular health and geospatial data for research purposes. Although a pilot study in nature, the data has allowed me to employ various statistical methods to uncover insights in cardiac performance which I hope to replicate in future research with a more representative sample. I am currently evaluating options for developing a mobile application that will allow others to collect the same data to make the study more representative and will implement various machine learning algorithms to enhance personal health and wellbeing. 
 
+All of the data is publicly hosted through the Harvard Dataverse **[here](https://dataverse.harvard.edu/dataverse/r4r)**
+
 Check out my Power BI dashboard **[here](https://app.powerbi.com/view?r=eyJrIjoiYjdmYTAzMmEtZjllZS00Mzg4LTljZDMtMTQ1Y2EyODJkNmQ1IiwidCI6IjY4ZjM4MWUzLTQ2ZGEtNDdiOS1iYTU3LTZmMzIyYjhmMGRhMSIsImMiOjN9)** or visit the dashboard tab at the top of this page.
 
 Furthermore, check out the **Code** tab at the top of the page for some other programming projects I am currently working on.

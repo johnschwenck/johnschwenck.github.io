@@ -4,7 +4,7 @@ title: About Me
 subtitle: It is hard to fail, but it is worse to never have tried to succeed. - Theodore Roosevelt
 ---
 
->Welcome to my site! My name is John Schwenck and I am an aspiring statistician with an adventurous spirit trying to change the world one iteration at a time. I am interested the general domain of machine learning, but specifically in computationally-intensive areas such as *Bayesian inference, dimensionality reduction, spatial interaction networks,* and *natural language processing (NLP)*. I find enjoyment in applying these methodologies to professional endeavors such as commodity market predictions, reservoir charicterization, and biostatistical applications, but also on a leisurely level with Poker and sports analytics.
+> **Welcome to my site! My name is John Schwenck and I am an aspiring statistician with an adventurous spirit trying to change the world one iteration at a time. I am interested the general domain of machine learning, but specifically in computationally-intensive areas such as *Bayesian inference, dimensionality reduction, spatial interaction networks,* and *natural language processing (NLP)*. I find enjoyment in applying these methodologies to professional endeavors such as commodity market predictions, reservoir charicterization, and biostatistical applications, but also on a leisurely level with Poker and sports analytics.**
 
 ### Graduate Education: *Texas A&M University*
 I am currently in pursuit of a ***Master of Science (M.S.)*** degree in ***Statistics*** at ***Texas A&M University*** where I have been fortunate enough to enroll in a wide variety of coursework covering both theoretical and computational-related topics. During my first year, I served as the ***Lead Statistician*** for the ***Applied Cognitive & Ergonomics [(ACE) lab](https://acelab.tamu.edu/)*** where I oversaw analyses and ensured statistical legitimacy before publication. Throughout both Spring and Fall 2020, I have also served as a Teaching Assistant (GAT) with lab responsibilities for an Intro to Data Science Course that relies on Python programming. 
@@ -19,7 +19,7 @@ I have ***3 years of professional work experience at SJI*** (a $2.1B natural gas
 ### Undergraduate Education: *Penn State University*
 I graduated from the ***Pennsylvania State University*** in 2016 where I ***completed over 170 credit hours*** towards my undergraduate dual-degrees in ***Economics (B.S.)*** and ***Supply Chain & Information Systems (B.S.)*** with a minor in Statistics, and ***founded the Penn State Energy Marketing Association*** **[(PSEMA)](https://www.pennstateema.com/)**. PSEMA is the university's first research organization dedicated to collaborating on commodity market research using a variety of statistical models and computational tools to publish monthly market outlook publications.
 
-### Technical Competence
+### Technical Competencies
 I maintain an ***advanced proficiency*** with ***R, Python,*** and ***VBA / Excel*** having over 5 years of experience with each, but have also recently gained fluency with ***SQL*** and ***C++***. Additionally, I have extensive professional experience with various visualization software such as ***Power BI, Shiny Apps,*** and ***Dash***, in addition to version control software using ***Git/GitHub***.
 
 ### Personal Research

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NYC to Alaska
+share-title: NYC to Alaska
 subtitle: Reflecting on a 5,775-mile data-driven bicycle trek across North America
 cover-img: /assets/img/20190703_171742.jpg
 date: 2020-07-19 

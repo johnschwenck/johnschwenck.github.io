@@ -1,7 +1,7 @@
 ---
 layout: home
 title: John Schwenck
-subtitle: Graduate Student | Statistics | Texas A&M University
+subtitle: Quantitative Analyst | Texas A&M University | Penn State University
 ---
 
 <div class="container">

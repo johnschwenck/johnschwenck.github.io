@@ -1,7 +1,7 @@
 ---
 layout: home
 title: John Schwenck
-subtitle: Quantitative Analyst | Texas A&M University | Penn State University
+subtitle: Quantitative Analyst | Texas A&M | Penn State
 ---
 
 <div class="container">

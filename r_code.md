@@ -10,6 +10,8 @@ subtitle: A List of R packages available for download
 ### ***[bp](https://github.com/johnschwenck/bp)***: Blood Pressure Analysis in R
 The **bp** package is the first open source R software package dedicated to analyzing blood pressure using various medical metrics from the Hypertension literature in addition to a suite of continuously-improving visualizations. The package is equipped with 6 publicly available data sets (4 HBPM data sets, 1 ABPM data set, and 1 AP data set) and also allows users to import and process their own data into a unified format. In addition to metrics and standalone visuals, the package has the ability to create a report for clinical use to summarize a given patients blood pressure trends. The ***bp*** package is available on both [CRAN](https://cran.r-project.org/web/packages/bp/index.html) (ver 2.0.0) and [GitHub](https://github.com/johnschwenck/bp).
 
+The ***bp*** package was presented at the 2021 R/Medicine Conference. The poster can be found [here](https://johnschwenck.github.io/img/R_Med_Poster_bp.pdf).
+
 ### ***[bp Shiny App](https://github.com/irinagain/bpshiny)***: A Web-based User Interface for the *bp* Package via Shiny
 As a programming-free alternative to the ***bp*** R package, a Shiny app has been developed to allows all users to easily analyze their own data withou the need to know the R programming language. This project is still in development and is set to be published to a public URL by Fall 2021.
 

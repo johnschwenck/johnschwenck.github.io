@@ -13,7 +13,9 @@ author: John Schwenck
 
 navbar-links:
   Home: "index"
-  About Me: "aboutme"
+  About Me: 
+    - Overview: "aboutme"
+    - CV / Resume: "https://johnschwenck.github.io/Schwenck - Resume.pdf"
   Code:
     - Python: "python_code"
     - R: "r_code"
@@ -23,7 +25,8 @@ navbar-links:
   #Walkthroughs:
   #  - googledrive:
   #  - dropbox:
-  CV / Resume: "https://johnschwenck.github.io/Schwenck - Resume.pdf"
+  Presentations: 
+    - 2021 R/Medicine Poster: "https://johnschwenck.github.io/img/R_Med_Poster_bp.pdf"
 
 # --- Logo --- #
 

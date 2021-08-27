@@ -16,7 +16,7 @@ subtitle: Quantitative Analyst | Texas A&M | Penn State
 		<a href="http://www.tamu.edu"> Texas A&M University </a> <br>
 		College Station, TX 77840 <br>
 		<strong>Email:</strong> jschwenck12 [at] gmail.com <br>
-		<a href = "https://johnschwenck.github.io/Schwenck - Resume.pdf" target="_blank">Click here for CV</a>
+		<a href = "https://johnschwenck.github.io/Schwenck - Resume.pdf" target="_blank">Click here for CV / Resume</a>
 		</p>
 	</div>
 </div>

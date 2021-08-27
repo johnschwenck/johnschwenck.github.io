@@ -15,7 +15,7 @@ subtitle: Graduate Student | Statistics | Texas A&M University
 		<p> <a href = "http://www.stat.tamu.edu"> Department of Statistics</a> <br>
 		<a href="http://www.tamu.edu"> Texas A&M University </a> <br>
 		College Station, TX 77840 <br>
-		<strong>Email:</strong> jschwenck [at] stat.tamu.edu <br>
+		<strong>Email:</strong> jschwenck12 [at] gmail.com <br>
 		<a href = "https://johnschwenck.github.io/Schwenck - Resume.pdf" target="_blank">Click here for CV</a>
 		</p>
 	</div>

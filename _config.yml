@@ -27,6 +27,8 @@ navbar-links:
   #  - dropbox:
   Presentations: 
     - 2021 R/Medicine Poster: "https://johnschwenck.github.io/img/R_Med_Poster_bp.pdf"
+  Random:
+    - Book Lists & Reviews: "Book Lists & Reviews/book_reviews"
 
 # --- Logo --- #
 

@@ -74,7 +74,7 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 <p align="center">
   <img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/indistractable.jpg?raw=true" alt="biggest_bluff" width="100"/>
-  <p>this is some text</p>
+  this is some text
 </p>
 
 <br clear="left"/>

@@ -9,7 +9,7 @@ Current list of books read in order of preference.
 ###### by George Orwell
 ###### My Rating: 5/5
 
-[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/biggestbluff.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/biggestbluff.jpg?raw=true)
+[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/1984.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://read.amazon.com/kp/embed?asin=B0984JBJRF&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_M6S23YZSQ6F3W556Z1MF)
 
 > About 1,000,000 times better than the movie. Read this book. Haunting. filler filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler filler
 
@@ -19,7 +19,7 @@ Current list of books read in order of preference.
 ###### by Ron Chernow
 ###### My Rating: 5/5
 
-[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true)
+[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/washington.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://read.amazon.com/kp/embed?asin=B003ZK58SQ&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_YW3VZBM0K0ESKPPEBNQP)
 
 > Very difficult read, but very thorough and complete.
 
@@ -27,9 +27,9 @@ Current list of books read in order of preference.
 
 #### *The Coddling of the American Mind: How Good intentions and Bad Ideas Are Setting Up a Generation for Failure*
 ###### by Jonathan Heidt & Greg Lukianoff
-###### My Rating: 5/5
+###### My Rating: 5 / 5
 
-[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true)
+[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/coddling.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/coddling.jpg?raw=true)
 
 > Insight into the madness occuring in our university system today in addition to the far-reaching ideologies in present society.
 
@@ -39,7 +39,7 @@ Current list of books read in order of preference.
 ###### by Cass Sustein
 ###### My Rating: 2.5 / 5
 
-[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true)
+[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simpler.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simpler.jpg?raw=true)
 
 > Interesting insight as to how OIRA was run and cut down on red tape by implementing "nudges" (the seminal work of Sustein and Thaler) during the Obama presidency. Thoughtful analysis of various situations and a good introduction to behavioral analysis / economics for those unfamiliar, but it seemed to drag on. I was relieved to finish.
 

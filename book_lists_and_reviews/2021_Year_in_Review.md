@@ -1,3 +1,8 @@
+---
+layout: page
+title: 2021 Year in Review
+subtitle: A temporary subtitle
+---
 Below is a list of books I've read in 2021 ranked in order of favorite. It was a great year for reading with 10 books read, 7 of which received a 5/5 rating.
 
 #### *The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win*

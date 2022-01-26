@@ -4,7 +4,7 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 [<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/biggestbluff.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/biggestbluff.jpg?raw=true)
 
-> best book by far filler filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler filler  
+> &nbsp;best book by far filler filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler filler  
 
 <br clear="left"/>
 

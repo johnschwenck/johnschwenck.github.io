@@ -3,7 +3,7 @@
 Below is a list of books I've read in 2021 ranked in order of favorite. It was a great year for reading with 10 books read, 7 of which received a 5/5 rating.
 
 #### ***The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win***
-##### by Maria Konnikova
+###### by Maria Konnikova
 ###### My Rating: 5/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/biggestbluff.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/biggestbluff.jpg?raw=true)
@@ -13,8 +13,8 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 <br clear="left"/>
 
 #### ***Madhouse at the End of the Earth: The Belgica's Journey Into the Dark Antarctic Night***
-#### by Julian Sancton 
-#### My Rating: 5/5
+###### by Julian Sancton 
+###### My Rating: 5/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true)
 
@@ -33,8 +33,8 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 <br clear="left"/>
 
 #### *Ticker: The Quest to Create an Artificial Heart*
-##### by Mimi Swartz
-##### My Rating: 5/5
+###### by Mimi Swartz
+###### My Rating: 5/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/ticker.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/ticker.jpg?raw=true)
 
@@ -43,8 +43,8 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 <br clear="left"/>
 
 #### *Zero to One: Notes on Startups, or How to Build the Future*
-#### by Peter Thiel & Blake Masters
-#### My Rating: 5/5
+###### by Peter Thiel & Blake Masters
+###### My Rating: 5/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/zero_to_one.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/zero_to_one.jpg?raw=true)
 
@@ -53,8 +53,8 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 <br clear="left"/>
 
 #### *The Man Who solved the Market: How Jim Simons Launched the Quant Revolution*
-#### by Gregory Zuckerman
-#### My Rating: 5/5
+###### by Gregory Zuckerman
+###### My Rating: 5/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simons.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simons.jpg?raw=true)
 
@@ -63,8 +63,8 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 <br clear="left"/>
 
 #### *Decision Points*
-#### by George W. Bush
-#### My Rating: 5/5
+###### by George W. Bush
+###### My Rating: 5/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/decision_pts.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/decision_pts.jpg?raw=true)
 
@@ -73,8 +73,8 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 <br clear="left"/>
 
 #### *I Hear You: The Surprisingly Simple Skill Behind Extraordinary Relationships*
-#### by Michael S Sorenson
-#### My Rating: 4/5
+###### by Michael S Sorenson
+###### My Rating: 4/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/i_hear_you.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/i_hear_you.jpg?raw=true)
 
@@ -83,8 +83,8 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 <br clear="left"/>
 
 #### *Indistractable: How to Control Your Attention and Choose Your Life*
-#### by Nir Eyal
-#### My Rating: 3/5
+###### by Nir Eyal
+###### My Rating: 3/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/indistractable.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/indistractable.jpg?raw=true)
 
@@ -93,8 +93,8 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 <br clear="left"/>
 
 #### *Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts*
-#### by Annie Duke
-#### My Rating: 1/5
+###### by Annie Duke
+###### My Rating: 1/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/thinking_bets.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/thinking_bets.jpg?raw=true)
 

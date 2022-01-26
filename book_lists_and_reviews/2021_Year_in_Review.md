@@ -2,7 +2,7 @@
 # 2021 Year in Review
 Below is a list of books I've read in 2021 ranked in order of favorite. It was a great year for reading with 10 books read, 7 of which received a 5/5 rating.
 
-#### *The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win*
+#### ***The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win***
 ##### by Maria Konnikova
 ###### My Rating: 5/5
 
@@ -12,7 +12,7 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 <br clear="left"/>
 
-#### *Madhouse at the End of the Earth: The Belgica's Journey Into the Dark Antarctic Night*
+#### ***Madhouse at the End of the Earth: The Belgica's Journey Into the Dark Antarctic Night***
 #### by Julian Sancton 
 #### My Rating: 5/5
 

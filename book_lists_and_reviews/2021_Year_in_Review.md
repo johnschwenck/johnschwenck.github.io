@@ -14,7 +14,7 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### *Madhouse at the End of the Earth: The Belgica's Journey Into the Dark Antarctic Night*
 ##### Julian Sancton 
-###### My Rating: 5/5
+##### My Rating: 5/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true)
 

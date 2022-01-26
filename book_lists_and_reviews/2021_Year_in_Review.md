@@ -26,11 +26,15 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### Ticker: The Quest to Create an Artificial Heart by Mimi Swartz - 5/5
 
+<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/ticker.jpg?raw=true" alt="biggest_bluff" width="100"/>
+
 > Heart Condition
 
 <br clear="left"/>
 
 #### Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel & Blake Masters - 5/5
+
+<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/zero_to_one.jpg?raw=true" alt="biggest_bluff" width="100"/>
 
 > Ironically, despite a 5/5, this book was the last startup/business/how-to book I've decided to read for a while
 
@@ -38,11 +42,15 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### The Man Who solved the Market: How Jim Simons Launched the Quant Revolution by Gregory Zuckerman - 5/5
 
+<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simons.jpg?raw=true" alt="biggest_bluff" width="100"/>
+
 > fantastic book about quants and rentec
 
 <br clear="left"/>
 
 #### Decision Points by George W. Bush - 5/5
+
+<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/decision_pts.jpg?raw=true" alt="biggest_bluff" width="100"/>
 
 > Whether you love or hate him, this book provides insight to his thought process
 

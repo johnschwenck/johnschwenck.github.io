@@ -47,10 +47,10 @@ Current list of books read in order of preference.
 
 ### Currently Reading:
 
-##### Benjamin Franklin by Walter isaacson
+##### *Benjamin Franklin* by Walter isaacson
 
-##### Alexander Hamilton by Ron Chernow
+##### *Alexander Hamilton* by Ron Chernow
 
-##### Team of Rivals by Doris Kearns Goodwin
+##### *Team of Rivals* by Doris Kearns Goodwin
 
-##### When Genius Failed: The Rise and Fall of Long Term Capital Management by Roger Lowenstein
+##### *When Genius Failed: The Rise and Fall of Long Term Capital Management* by Roger Lowenstein

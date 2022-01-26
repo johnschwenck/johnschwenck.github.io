@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2022 Year in Review
-subtitle: A temporary subtitle
+subtitle: "The man who does not read good books is no better than the man who can’t."
 ---
 Current list of books read in order of preference.
 

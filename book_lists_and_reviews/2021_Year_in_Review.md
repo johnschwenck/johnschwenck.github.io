@@ -58,17 +58,23 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### I Hear You: The Surprisingly Simple Skill Behind Extraordinary Relationships by Michael S Sorenson - 4/5
 
+<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/i_hear_you.jpg?raw=true" alt="biggest_bluff" width="100"/>
+
 > While the title may lead you to believe that this is a book about romantic relationship advice (which to an extent it is), there is much more to be gleaned from the author's insight into human nature and the social need for validation. The author gives countless examples of how to utilize otherwise common sense life principles (active listening, compassion, validation, etc) in all aspects of life to diffuse tense situations. Whether an argument with a spouse or collaboration with a stubborn co-worker or even how to fire someone in a way that de-escalates animosity toward one another (i.e. help them look for future work, etc). An unexpectedly splendid read.
 
 <br clear="left"/>
 
 #### Indistractable: How to Control Your Attention and Choose Your Life by Nir Eyal - 3/5
 
+<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/indistractable.jpg?raw=true" alt="biggest_bluff" width="100"/>
+
 > ok
 
 <br clear="left"/>
 
 #### Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts by Annie Duke - 1/5
+
+<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/thinking_bets.jpg?raw=true" alt="biggest_bluff" width="100"/>
 
 > Admittedly, my 2/5 rating is a review in hindsight. After reading The Biggest Bluff, this book was a huge let down. It reiterated the same basic life lesson over and over and over again.
 

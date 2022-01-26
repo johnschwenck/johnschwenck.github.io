@@ -2,7 +2,7 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win by Maria Konnikova - 5/5
 
-[<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/biggestbluff.jpg?raw=true" alt="biggest_bluff" width="100"/>](biggestbluff.png)
+[<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/biggestbluff.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/biggestbluff.jpg?raw=true)
   
 > best book by far filler filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler filler  
 

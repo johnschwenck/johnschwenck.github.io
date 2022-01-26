@@ -2,9 +2,9 @@
 # 2021 Year in Review
 Below is a list of books I've read in 2021 ranked in order of favorite. It was a great year for reading with 10 books read, 7 of which received a 5/5 rating.
 
-### *The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win*
+#### *The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win*
 #### Maria Konnikova
-##### My Rating: 5/5
+#### My Rating: 5/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/biggestbluff.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/biggestbluff.jpg?raw=true)
 
@@ -13,8 +13,8 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 <br clear="left"/>
 
 #### *Madhouse at the End of the Earth: The Belgica's Journey Into the Dark Antarctic Night*
-##### Julian Sancton 
-##### My Rating: 5/5
+#### Julian Sancton 
+#### My Rating: 5/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true)
 

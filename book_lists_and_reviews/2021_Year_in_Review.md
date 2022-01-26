@@ -62,7 +62,8 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 <br clear="left"/>
 
-#### *Decision Points* by George W. Bush
+#### *Decision Points*
+#### by George W. Bush
 #### My Rating: 5/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/decision_pts.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/decision_pts.jpg?raw=true)
@@ -71,7 +72,8 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 <br clear="left"/>
 
-#### *I Hear You: The Surprisingly Simple Skill Behind Extraordinary Relationships* by Michael S Sorenson
+#### *I Hear You: The Surprisingly Simple Skill Behind Extraordinary Relationships*
+#### by Michael S Sorenson
 #### My Rating: 4/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/i_hear_you.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/i_hear_you.jpg?raw=true)
@@ -80,7 +82,8 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 <br clear="left"/>
 
-#### *Indistractable: How to Control Your Attention and Choose Your Life* by Nir Eyal
+#### *Indistractable: How to Control Your Attention and Choose Your Life*
+#### by Nir Eyal
 #### My Rating: 3/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/indistractable.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/indistractable.jpg?raw=true)
@@ -89,7 +92,8 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 <br clear="left"/>
 
-#### *Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts* by Annie Duke
+#### *Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts*
+#### by Annie Duke
 #### My Rating: 1/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/thinking_bets.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/thinking_bets.jpg?raw=true)

@@ -1,7 +1,7 @@
 Below is a list of books I've read in 2021 ranked in order of favorite. It was a great year for reading with 10 books read, 7 of which received a 5/5 rating.
 
 The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win by Maria Konnikova - 5/5
-![alt text](https://github.com/johnschwenck/johnschwenck.github.io/Book Lists & Reviews/book_images/biggestbluff.jpg?raw=true) best book by far
+![](https://github.com/johnschwenck/johnschwenck.github.io/book_lists_and_reviews/book_images/biggestbluff.jpg?raw=true) best book by far
 
 Madhouse at the End of the Earth: The Belgica's Journey Into the Dark Antarctic Night by Julian Sancton - 5/5
 My favorite of 2021

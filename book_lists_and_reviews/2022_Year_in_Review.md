@@ -1,16 +1,49 @@
+---
+layout: page
+title: 2022 Year in Review
+subtitle: A temporary subtitle
+---
 Current list of books read in order of preference.
 
-##### 1984 by George Orwell - 5/5
-About 1,000,000 times better than the movie. Read this book. Haunting.
+#### *1984*
+###### by George Orwell
+###### My Rating: 5/5
 
-##### Washington: A Life by Ron Chernow - 5/5
-Very difficult read, but very thorough and complete.
+[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/biggestbluff.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/biggestbluff.jpg?raw=true)
 
-##### The Coddling of the American Mind: How Good intentions and Bad Ideas Are Setting Up a Generation for Failure by Jonathan Heidt & Greg Lukianoff - 5/5
-Insight into the madness occuring in our university system today in addition to the far-reaching ideologies in present society. 
+> About 1,000,000 times better than the movie. Read this book. Haunting. filler filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler filler
 
-##### simpler: The Future of Government by Cass Sustein - 3/5
-Interesting insight as to how OIRA was run and cut down on red tape by implementing "nudges" (the seminal work of Sustein and Thaler) during the Obama presidency. Thoughtful analysis of various situations and a good introduction to behavioral analysis / economics for those unfamiliar, but it seemed to drag on. I was relieved to finish. 
+<br clear="left"/>
+
+#### *Washington: A Life*
+###### by Ron Chernow
+###### My Rating: 5/5
+
+[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true)
+
+> Very difficult read, but very thorough and complete.
+
+<br clear="left"/>
+
+#### *The Coddling of the American Mind: How Good intentions and Bad Ideas Are Setting Up a Generation for Failure*
+###### by Jonathan Heidt & Greg Lukianoff
+###### My Rating: 5/5
+
+[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true)
+
+> Insight into the madness occuring in our university system today in addition to the far-reaching ideologies in present society.
+
+<br clear="left"/>
+
+#### *Simpler: The Future of Government*
+###### by Cass Sustein
+###### My Rating: 2.5 / 5
+
+[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true)
+
+> Interesting insight as to how OIRA was run and cut down on red tape by implementing "nudges" (the seminal work of Sustein and Thaler) during the Obama presidency. Thoughtful analysis of various situations and a good introduction to behavioral analysis / economics for those unfamiliar, but it seemed to drag on. I was relieved to finish.
+
+<br clear="left"/>
 
 ### Currently Reading:
 

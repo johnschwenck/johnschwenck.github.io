@@ -3,14 +3,14 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 #### The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win by Maria Konnikova - 5/5
 
 [<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/biggestbluff.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/biggestbluff.jpg?raw=true)
-  
+
 > best book by far filler filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler fillerfiller filler filler filler  
 
 <br clear="left"/>
 
 #### Madhouse at the End of the Earth: The Belgica's Journey Into the Dark Antarctic Night by Julian Sancton - 5/5
 
-<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true" alt="biggest_bluff" width="100"/>
+[<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true)
 
 > My favorite of 2021
 
@@ -18,7 +18,7 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### The River of Doubt: Theodore Roosevelt's Darkest Journey by Candice Millard - 5/5
 
-<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/river_of_doubt.jpg?raw=true" alt="biggest_bluff" width="100"/>
+[<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/river_of_doubt.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/river_of_doubt.jpg?raw=true)
 
 > Anyone who knows me knows I love TR
 
@@ -26,7 +26,7 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### Ticker: The Quest to Create an Artificial Heart by Mimi Swartz - 5/5
 
-<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/ticker.jpg?raw=true" alt="biggest_bluff" width="100"/>
+[<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/ticker.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/ticker.jpg?raw=true)
 
 > Heart Condition
 
@@ -34,7 +34,7 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel & Blake Masters - 5/5
 
-<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/zero_to_one.jpg?raw=true" alt="biggest_bluff" width="100"/>
+[<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/zero_to_one.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/zero_to_one.jpg?raw=true)
 
 > Ironically, despite a 5/5, this book was the last startup/business/how-to book I've decided to read for a while
 
@@ -42,7 +42,7 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### The Man Who solved the Market: How Jim Simons Launched the Quant Revolution by Gregory Zuckerman - 5/5
 
-<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simons.jpg?raw=true" alt="biggest_bluff" width="100"/>
+[<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simons.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simons.jpg?raw=true)
 
 > fantastic book about quants and rentec
 
@@ -50,7 +50,7 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### Decision Points by George W. Bush - 5/5
 
-<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/decision_pts.jpg?raw=true" alt="biggest_bluff" width="100"/>
+[<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/decision_pts.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/decision_pts.jpg?raw=true)
 
 > Whether you love or hate him, this book provides insight to his thought process
 
@@ -58,7 +58,7 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### I Hear You: The Surprisingly Simple Skill Behind Extraordinary Relationships by Michael S Sorenson - 4/5
 
-<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/i_hear_you.jpg?raw=true" alt="biggest_bluff" width="100"/>
+[<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/i_hear_you.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/i_hear_you.jpg?raw=true)
 
 > While the title may lead you to believe that this is a book about romantic relationship advice (which to an extent it is), there is much more to be gleaned from the author's insight into human nature and the social need for validation. The author gives countless examples of how to utilize otherwise common sense life principles (active listening, compassion, validation, etc) in all aspects of life to diffuse tense situations. Whether an argument with a spouse or collaboration with a stubborn co-worker or even how to fire someone in a way that de-escalates animosity toward one another (i.e. help them look for future work, etc). An unexpectedly splendid read.
 
@@ -66,7 +66,7 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### Indistractable: How to Control Your Attention and Choose Your Life by Nir Eyal - 3/5
 
-<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/indistractable.jpg?raw=true" alt="biggest_bluff" width="100"/>
+[<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/indistractable.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/indistractable.jpg?raw=true)
 
 > ok
 
@@ -74,7 +74,7 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts by Annie Duke - 1/5
 
-<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/thinking_bets.jpg?raw=true" alt="biggest_bluff" width="100"/>
+[<img align="left" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/thinking_bets.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/thinking_bets.jpg?raw=true)
 
 > Admittedly, my 2/5 rating is a review in hindsight. After reading The Biggest Bluff, this book was a huge let down. It reiterated the same basic life lesson over and over and over again.
 

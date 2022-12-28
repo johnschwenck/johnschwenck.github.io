@@ -7,6 +7,7 @@ Current list of books read in order of preference.
 
 #### *1984*
 ###### by George Orwell
+###### Pages: 
 ###### My Rating: 5/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/1984.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://read.amazon.com/kp/embed?asin=B0984JBJRF&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_M6S23YZSQ6F3W556Z1MF)
@@ -17,6 +18,7 @@ Current list of books read in order of preference.
 
 #### *Washington: A Life*
 ###### by Ron Chernow
+###### Pages: 
 ###### My Rating: 5/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/washington.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://read.amazon.com/kp/embed?asin=B003ZK58SQ&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_YW3VZBM0K0ESKPPEBNQP)
@@ -27,6 +29,7 @@ Current list of books read in order of preference.
 
 #### *The Coddling of the American Mind: How Good intentions and Bad Ideas Are Setting Up a Generation for Failure*
 ###### by Jonathan Heidt & Greg Lukianoff
+###### Pages: 
 ###### My Rating: 5 / 5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/coddling.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/coddling.jpg?raw=true)
@@ -37,7 +40,41 @@ Current list of books read in order of preference.
 
 #### *Simpler: The Future of Government*
 ###### by Cass Sustein
+###### Pages: 
 ###### My Rating: 2.5 / 5
+
+[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simpler.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simpler.jpg?raw=true)
+
+> Interesting insight as to how OIRA was run and cut down on red tape by implementing "nudges" (the seminal work of Sustein and Thaler) during the Obama presidency. Thoughtful analysis of various situations and a good introduction to behavioral analysis / economics for those unfamiliar, but it seemed to drag on. I was relieved to finish.
+
+<br clear="left"/>
+
+#### *Ben Franklin*
+###### by Walter Isaacson
+###### Pages: 
+###### My Rating: 4 / 5
+
+[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simpler.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simpler.jpg?raw=true)
+
+> Interesting insight as to how OIRA was run and cut down on red tape by implementing "nudges" (the seminal work of Sustein and Thaler) during the Obama presidency. Thoughtful analysis of various situations and a good introduction to behavioral analysis / economics for those unfamiliar, but it seemed to drag on. I was relieved to finish.
+
+<br clear="left"/>
+
+#### *Alexander Hamilton*
+###### by Ron Chernow
+###### Pages: 
+###### My Rating: 5 / 5
+
+[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simpler.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simpler.jpg?raw=true)
+
+> Interesting insight as to how OIRA was run and cut down on red tape by implementing "nudges" (the seminal work of Sustein and Thaler) during the Obama presidency. Thoughtful analysis of various situations and a good introduction to behavioral analysis / economics for those unfamiliar, but it seemed to drag on. I was relieved to finish.
+
+<br clear="left"/>
+
+#### *Can't Hurt Me*
+###### by David Goggins
+###### Pages: 356
+###### My Rating: 4 / 5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simpler.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simpler.jpg?raw=true)
 
@@ -47,10 +84,6 @@ Current list of books read in order of preference.
 
 ### Currently Reading:
 
-##### *Benjamin Franklin* by Walter isaacson
+##### *Why We Sleep: Unlocking the Power of Sleep and Dreams* by Matthew Walker
 
-##### *Alexander Hamilton* by Ron Chernow
-
-##### *Team of Rivals* by Doris Kearns Goodwin
-
-##### *When Genius Failed: The Rise and Fall of Long Term Capital Management* by Roger Lowenstein
+##### *John Adams* by David McCullough

@@ -49,12 +49,23 @@ Current list of books read in chronological order.
 
 <br clear="left"/>
 
+#### *Will*
+###### by Will Smith
+###### Pages: 432
+###### My Rating: 5 / 5
+
+[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/willsmith.jpg?raw=true" alt="willsmith" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/willsmith.jpg?raw=true)
+
+> Interesting insight as to how OIRA was run and cut down on red tape by implementing "nudges" (the seminal work of Sustein and Thaler) during the Obama presidency. Thoughtful analysis of various situations and a good introduction to behavioral analysis / economics for those unfamiliar, but it seemed to drag on. I was relieved to finish.
+
+<br clear="left"/>
+
 #### *Ben Franklin*
 ###### by Walter Isaacson
 ###### Pages: 586
 ###### My Rating: 4 / 5
 
-[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/franklin.jpg?raw=true" alt="franklin" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/franklin.jpg)
+[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/franklin.jpg?raw=true" alt="franklin" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/franklin.jpg?raw=true)
 
 > Interesting insight as to how OIRA was run and cut down on red tape by implementing "nudges" (the seminal work of Sustein and Thaler) during the Obama presidency. Thoughtful analysis of various situations and a good introduction to behavioral analysis / economics for those unfamiliar, but it seemed to drag on. I was relieved to finish.
 
@@ -65,7 +76,7 @@ Current list of books read in chronological order.
 ###### Pages: 832
 ###### My Rating: 5 / 5
 
-[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/hamilton.jpg?raw=true" alt="hamilton" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/hamilton.jpg)
+[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/hamilton.jpg?raw=true" alt="hamilton" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/hamilton.jpg?raw=true)
 
 > Interesting insight as to how OIRA was run and cut down on red tape by implementing "nudges" (the seminal work of Sustein and Thaler) during the Obama presidency. Thoughtful analysis of various situations and a good introduction to behavioral analysis / economics for those unfamiliar, but it seemed to drag on. I was relieved to finish.
 
@@ -76,7 +87,7 @@ Current list of books read in chronological order.
 ###### Pages: 356
 ###### My Rating: 4 / 5
 
-[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/goggins.jpg?raw=true" alt="goggins" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/goggins.jpg)
+[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/goggins.jpg?raw=true" alt="goggins" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/goggins.jpg?raw=true)
 
 > Interesting insight as to how OIRA was run and cut down on red tape by implementing "nudges" (the seminal work of Sustein and Thaler) during the Obama presidency. Thoughtful analysis of various situations and a good introduction to behavioral analysis / economics for those unfamiliar, but it seemed to drag on. I was relieved to finish.
 
@@ -93,7 +104,10 @@ Current list of books read in chronological order.
 
 <br clear="left"/>
 
-### Total pages read for 2022: 3,994
+### Total pages read for 2022: 
+##### 4,426
+
+<br clear="left"/>
 
 ### Currently Reading:
 

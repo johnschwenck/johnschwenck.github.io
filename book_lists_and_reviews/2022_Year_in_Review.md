@@ -3,11 +3,22 @@ layout: page
 title: 2022 Year in Review
 subtitle: The man who does not read good books is no better than the man who can’t.
 ---
-Current list of books read in order of preference.
+Current list of books read in chronological order.
+
+#### *Simpler: The Future of Government*
+###### by Cass Sustein
+###### Pages: 272
+###### My Rating: 2.5 / 5
+
+[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simpler.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simpler.jpg?raw=true)
+
+> Interesting insight as to how OIRA was run and cut down on red tape by implementing "nudges" (the seminal work of Sustein and Thaler) during the Obama presidency. Thoughtful analysis of various situations and a good introduction to behavioral analysis / economics for those unfamiliar, but it seemed to drag on. I was relieved to finish.
+
+<br clear="left"/>
 
 #### *1984*
 ###### by George Orwell
-###### Pages: 
+###### Pages: 328
 ###### My Rating: 5/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/1984.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://read.amazon.com/kp/embed?asin=B0984JBJRF&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_M6S23YZSQ6F3W556Z1MF)
@@ -18,7 +29,7 @@ Current list of books read in order of preference.
 
 #### *Washington: A Life*
 ###### by Ron Chernow
-###### Pages: 
+###### Pages: 928
 ###### My Rating: 5/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/washington.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://read.amazon.com/kp/embed?asin=B003ZK58SQ&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_YW3VZBM0K0ESKPPEBNQP)
@@ -29,7 +40,7 @@ Current list of books read in order of preference.
 
 #### *The Coddling of the American Mind: How Good intentions and Bad Ideas Are Setting Up a Generation for Failure*
 ###### by Jonathan Heidt & Greg Lukianoff
-###### Pages: 
+###### Pages: 352
 ###### My Rating: 5 / 5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/coddling.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/coddling.jpg?raw=true)
@@ -38,23 +49,12 @@ Current list of books read in order of preference.
 
 <br clear="left"/>
 
-#### *Simpler: The Future of Government*
-###### by Cass Sustein
-###### Pages: 
-###### My Rating: 2.5 / 5
-
-[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simpler.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simpler.jpg?raw=true)
-
-> Interesting insight as to how OIRA was run and cut down on red tape by implementing "nudges" (the seminal work of Sustein and Thaler) during the Obama presidency. Thoughtful analysis of various situations and a good introduction to behavioral analysis / economics for those unfamiliar, but it seemed to drag on. I was relieved to finish.
-
-<br clear="left"/>
-
 #### *Ben Franklin*
 ###### by Walter Isaacson
-###### Pages: 
+###### Pages: 586
 ###### My Rating: 4 / 5
 
-[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simpler.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simpler.jpg?raw=true)
+[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/franklin.jpg" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/franklin.jpg)
 
 > Interesting insight as to how OIRA was run and cut down on red tape by implementing "nudges" (the seminal work of Sustein and Thaler) during the Obama presidency. Thoughtful analysis of various situations and a good introduction to behavioral analysis / economics for those unfamiliar, but it seemed to drag on. I was relieved to finish.
 
@@ -62,10 +62,10 @@ Current list of books read in order of preference.
 
 #### *Alexander Hamilton*
 ###### by Ron Chernow
-###### Pages: 
+###### Pages: 832
 ###### My Rating: 5 / 5
 
-[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simpler.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simpler.jpg?raw=true)
+[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/hamilton.jpg" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/hamilton.jpg)
 
 > Interesting insight as to how OIRA was run and cut down on red tape by implementing "nudges" (the seminal work of Sustein and Thaler) during the Obama presidency. Thoughtful analysis of various situations and a good introduction to behavioral analysis / economics for those unfamiliar, but it seemed to drag on. I was relieved to finish.
 
@@ -76,14 +76,29 @@ Current list of books read in order of preference.
 ###### Pages: 356
 ###### My Rating: 4 / 5
 
+[<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/goggins.jpg" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/goggins.jpg)
+
+> Interesting insight as to how OIRA was run and cut down on red tape by implementing "nudges" (the seminal work of Sustein and Thaler) during the Obama presidency. Thoughtful analysis of various situations and a good introduction to behavioral analysis / economics for those unfamiliar, but it seemed to drag on. I was relieved to finish.
+
+<br clear="left"/>
+
+#### *Why We Sleep: Unlocking the Power of Sleep and Dreams*
+###### by Matthew Walker
+###### Pages: 340
+###### My Rating: 5 / 5
+
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simpler.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simpler.jpg?raw=true)
 
 > Interesting insight as to how OIRA was run and cut down on red tape by implementing "nudges" (the seminal work of Sustein and Thaler) during the Obama presidency. Thoughtful analysis of various situations and a good introduction to behavioral analysis / economics for those unfamiliar, but it seemed to drag on. I was relieved to finish.
 
 <br clear="left"/>
 
+### Total pages read for 2022: 3,994
+
 ### Currently Reading:
 
-##### *Why We Sleep: Unlocking the Power of Sleep and Dreams* by Matthew Walker
+##### *Adventure Psychology: Going Knowingly into the Unknown* by Paula Reid & Eric Brymer
+
+##### *The Two-Mile Time Machine: Ice Cores, Abrupt Climate Change, and Our Future* by Richard B. Alley
 
 ##### *John Adams* by David McCullough

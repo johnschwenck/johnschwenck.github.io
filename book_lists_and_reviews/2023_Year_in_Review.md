@@ -39,7 +39,7 @@ Current list of books read in chronological order.
 
 > ***Adventure Psychology: Going Knowingly into the Unknown*** by Paula Reid & Eric Brymer
 
-> ***The Two-Mile Time Machine: Ice Cores, Abrupt Climate Change, and Our Future* by Richard B. Alley
+> ***The Two-Mile Time Machine: Ice Cores, Abrupt Climate Change, and Our Future*** by Richard B. Alley
 
 > ***John Adams*** by David McCullough
 

@@ -4,7 +4,7 @@ title: All-Time Favorite Books
 subtitle: The more that you read, the more things you will know. The more that you learn, the more places you’ll go. - Dr. Suess
 ---
 
-### Top 10 Overall Favorite Books:
+### Top 10 Overall:
 1. *Thinking Fast & Slow* by Daniel Kahneman
 2. *Alexander Hamilton* by Ron Chernow
 3. *The Biggest Bluff* by Maria Konnikova
@@ -16,7 +16,7 @@ subtitle: The more that you read, the more things you will know. The more that y
 9. *Into the Wild* by Jon Krakauer
 10. *Why We Sleep: Unlocking the Power of Sleep and Dreams* by Matthew Walker
 
-### Top 5 Favorite Fiction:
+### Top 5 Fiction:
 1. *1984* by George Orwell
 2. *Atlas Shrugged* by Ayn Rand
 3. *Crime & Punishment* by Fyodor Dostoevsky

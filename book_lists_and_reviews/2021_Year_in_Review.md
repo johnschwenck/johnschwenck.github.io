@@ -38,7 +38,11 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/river_of_doubt.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/river_of_doubt.jpg?raw=true)
 
-> Anyone who knows me knows I love TR
+> The River of Doubt: Theodore Roosevelt's Darkest Journey is a thrilling and captivating historical narrative by Candice Millard. The book tells the story of Theodore Roosevelt's journey down the little-known and treacherous River of Doubt (now known as the Rio Roosevelt) in Brazil in 1914.
+> 
+> The book is a beautifully written account of Roosevelt's journey, which was filled with danger, adventure, and near-death experiences. Anyone who knows me personally, knows that I am a huge fan of Theodore Roosevelt for precisely this reason; his mental fortitude to venture into the unknown and constantly strive for greatness. Millard brings to life the intense and often grueling nature of the expedition, as Roosevelt and his team faced obstacles such as treacherous rapids, deadly predators, and deadly diseases. Throughout the book, Millard paints a vivid picture of Roosevelt's resilience and determination in the face of these challenges. She also delves into the personal struggles and motivations of the other members of the expedition, including the Brazilian explorer Cândido Rondon, who accompanied Roosevelt on the journey.
+> 
+> Overall, The River of Doubt is a must-read for anyone interested in the life of Theodore Roosevelt or in the history of exploration. It is a testament to the human spirit and the indomitable will to survive against all odds.
 
 <br clear="left"/>
 
@@ -48,7 +52,18 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/ticker.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/ticker.jpg?raw=true)
 
-> Heart Condition
+> Ticker: The Quest to Create an Artificial Heart is a fascinating and informative book by Mimi Swartz and Eric Topol. The book tells the story of the groundbreaking efforts (along with the associated societal repercussions and controversies) to create an artificial heart that can replace the human heart when it fails. 
+> 
+> The book begins with the history of heart disease and the development of heart surgery, and then delves into the stories of the scientists, doctors, and patients who have been at the forefront of the quest for an artificial heart. Swartz and Topol do an excellent job of weaving together the scientific, medical, and personal aspects of this complex and challenging journey. While there are not traditional "characters" in the way that a work of fiction would have, the book highlights several individuals who have played key roles in the development and implementation of the artificial heart. These individuals include:
+> 
+- *Dr. Michael DeBakey*: A renowned cardiovascular surgeon and researcher who was one of the pioneers in the development of the artificial heart.
+- *Dr. Robert Jarvik*: A medical inventor who developed one of the first successful artificial hearts, the Jarvik-7.
+- *Dr. William DeVries*: The surgeon who implanted the Jarvik-7 into patient Barney Clark, making him the first person to receive an artificial heart.
+- *Dr. Bud Frazier*: A cardiovascular surgeon and researcher who has been involved in the development of several artificial heart prototypes.
+> 
+> Throughout the book, the authors provide in-depth and engaging accounts of the various approaches that have been taken to create an artificial heart, including the development of mechanical hearts, heart assist devices, and even lab-grown hearts. They also explore the ethical and societal implications of such a revolutionary technology. These stories provide a human dimension to the scientific and technical aspects of the book and give a sense of the very real stakes involved in the quest to create an artificial heart.
+> 
+> Overall, Ticker is a must-read for anyone interested in the field of medicine, heart disease, or the intersection of science and society. It is a thought-provoking and highly informative look at one of the most ambitious and challenging endeavors in modern medicine.
 
 <br clear="left"/>
 
@@ -58,7 +73,13 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/zero_to_one.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/zero_to_one.jpg?raw=true)
 
-> Ironically, despite a 5/5, this book was the last startup/business/how-to book I've decided to read for a while
+> Zero to One: Notes on Startups, or How to Build the Future is a must-read for anyone interested in entrepreneurship or innovation. In this highly influential and thought-provoking book, Peter Thiel, co-founder of PayPal and Palantir, offers his insights and strategies for building a successful startup.
+> 
+> One of the key themes of the book is the importance of creating something truly new and innovative (thinking "vertically" rather than "horizontally"), rather than simply copying what has already been done. Thiel argues that the biggest opportunities for growth and success come from creating "monopolies" in a new market or industry, rather than competing in an already crowded space.
+> 
+> In addition to offering practical advice for building a successful startup, Thiel also explores a wide range of topics, including the role of technology in shaping the future, the importance of culture and teamwork, and the challenges of scaling a business. He also debunks many of the myths and misconceptions that surround the world of startups, providing a realistic and nuanced view of what it takes to succeed in this competitive and fast-paced environment.
+> 
+> Overall, Zero to One is an excellent book that is both thought-provoking and actionable. It is a must-read for anyone looking to start a business who has the willingness to take calculated risks in order to make their vision a reality.
 
 <br clear="left"/>
 
@@ -78,7 +99,11 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/decision_pts.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/decision_pts.jpg?raw=true)
 
-> Whether you love or hate him, this book provides insight to his thought process
+> Whether you love or hate him, this book provides surprising insight into the mind of George W. Bush and the major life decisions he has had to evaluate throughout his life. This is a refreshingly unique spin on an autobiography as it is not merely a chronology of his life, but rather a chronology of the events themselves. Most importantly, he offers honest and humble reflections that acknowledge his mistakes on the decisions he admittedly got wrong. I was always taught that in order to objectively judge someone's actions or character, you must hear both sides of the story.
+> 
+> Reading his take provides color into how he approached many topics that the media often sensationalized and reported in a biased manner. Many issues he faced, he took tremendous strides to hear from as many people from as many different backgrounds as he could before passing any sort of judgment. He worked with Ted Kennedy to try and fix the education system, he led the fight against HIV/AIDS in some of the poorest places on earth, improved medicare through the Medicare Modernization Act, helped Texas to become the leader in renewable energy, and most cemented in my mind having grown up 10 miles outside NYC was his ability to rally a nation at a time when everyone was in a state of panic and terror, yet made sure to respect the muslim faith during the aftermath by fighting for their right to peacefully worship as they saw fit. 
+> 
+> Despite the negative perception, I greatly appreciate this man and I truly believe he had this country's best interests at heart both when he was in office and out. Even if you wholeheartedly disagree with me, at least hear his point of view first before you judge him. I am confident that this book will leave you feeling otherwise.
 
 <br clear="left"/>
 
@@ -108,6 +133,6 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/thinking_bets.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/thinking_bets.jpg?raw=true)
 
-> Admittedly, my 2/5 rating is a review in hindsight. After reading The Biggest Bluff, this book was a huge let down. It reiterated the same basic life lesson over and over and over again.
+> Admittedly, my 1/5 rating is a review in hindsight. After reading The Biggest Bluff, this book was a huge let down. It reiterated the same basic life lesson about taking calculated bets (i.e. risk) over and over and over again. Perhaps this might appeal to someone who has never read any basic psychology or economics text, but if not there are plenty of better options to choose from. As a statistician myself, I cannot help but also notice the fundamental gaps in some of the ways she describes Bayesian thinking. I could not be more relieved to finish this one. 
 
 <br clear="left"/>

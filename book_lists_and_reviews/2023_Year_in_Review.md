@@ -29,34 +29,30 @@ Current list of books read in chronological order.
 
 ### Total pages read for 2023: 
 
-##### 696
-
-<br clear="left"/>
+> 696
 
 ### Currently Reading:
 
-##### *Shoe Dog* by Phil Knight
-
-<br clear="left"/>
+> ***Shoe Dog*** by Phil Knight
 
 ### 2023 Reading List:
 
-##### *Adventure Psychology: Going Knowingly into the Unknown* by Paula Reid & Eric Brymer
+> ***Adventure Psychology: Going Knowingly into the Unknown*** by Paula Reid & Eric Brymer
 
-##### *The Two-Mile Time Machine: Ice Cores, Abrupt Climate Change, and Our Future* by Richard B. Alley
+> ***The Two-Mile Time Machine: Ice Cores, Abrupt Climate Change, and Our Future* by Richard B. Alley
 
-##### *John Adams* by David McCullough
+> ***John Adams*** by David McCullough
 
-##### *Thomas Jefferson: The Art of Power* by Jon Meacham
+> ***Thomas Jefferson: The Art of Power*** by Jon Meacham
 
-##### *John Marshall: Definer of a Nation* by Jean Edward-Smith
+> ***John Marshall: Definer of a Nation*** by Jean Edward-Smith
 
-##### *Capitalism and Freedom* by Milton Friedman
+> ***Capitalism and Freedom*** by Milton Friedman
 
-##### *Endurance* by Alfred Lansing
+> ***Endurance*** by Alfred Lansing
 
-##### *The Worst Journey in the World* by Apsley Cherry-Garrard
+> ***The Worst Journey in the World*** by Apsley Cherry-Garrard
 
-##### *Fortune's Formula* by William Poundstone
+> ***Fortune's Formula*** by William Poundstone
 
 <br clear="left"/>

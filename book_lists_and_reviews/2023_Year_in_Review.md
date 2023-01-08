@@ -28,6 +28,7 @@ Current list of books read in chronological order.
 <br clear="left"/>
 
 ### Total pages read for 2023: 
+
 ##### 696
 
 ### Currently Reading:

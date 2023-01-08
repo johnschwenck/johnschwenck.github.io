@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 2021 Year in Review
+title: All-Time Favorite Books
 subtitle: The more that you read, the more things you will know. The more that you learn, the more places you’ll go. - Dr. Suess
 ---
 
-### All-Time 10 Favorite Books:
+### Top 10 Overall Favorite Books:
 1. *Thinking Fast & Slow* by Daniel Kahneman
 2. *Alexander Hamilton* by Ron Chernow
 3. *The Biggest Bluff* by Maria Konnikova
@@ -16,7 +16,7 @@ subtitle: The more that you read, the more things you will know. The more that y
 9. *Into the Wild* by Jon Krakauer
 10. *Why We Sleep: Unlocking the Power of Sleep and Dreams* by Matthew Walker
 
-### 5 Favorite Fiction:
+### Top 5 Favorite Fiction:
 1. *1984* by George Orwell
 2. *Crime & Punishment* by Fyodor Dostoevsky
 3. *Animal Farm* by George Orwell

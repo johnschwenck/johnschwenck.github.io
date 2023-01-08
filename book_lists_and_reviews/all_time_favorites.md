@@ -18,7 +18,7 @@ subtitle: The more that you read, the more things you will know. The more that y
 
 ### Top 5 Favorite Fiction:
 1. *1984* by George Orwell
-2. *Crime & Punishment* by Fyodor Dostoevsky
-3. *Animal Farm* by George Orwell
+2. *Atlas Shrugged* by Ayn Rand
+3. *Crime & Punishment* by Fyodor Dostoevsky
 4. *War of the Worlds* by H.G. Wells
-5. *Atlas Shrugged* by Ayn Rand
+5. *Animal Farm* by George Orwell

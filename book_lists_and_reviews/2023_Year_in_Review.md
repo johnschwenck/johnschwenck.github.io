@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2022 Year in Review
-subtitle: The man who does not read good books is no better than the man who can’t.
+subtitle: Make it a rule never to give a child a book you would not read yourself. - George Bernard Shaw
 ---
 Current list of books read in chronological order.
 
@@ -36,7 +36,7 @@ Current list of books read in chronological order.
 
 ### 2023 Reading List:
 
-##### ***Adventure Psychology: Going Knowingly into the Unknown*** by Paula Reid & Eric Brymer
+##### *Adventure Psychology: Going Knowingly into the Unknown* by Paula Reid & Eric Brymer
 
 ##### *The Two-Mile Time Machine: Ice Cores, Abrupt Climate Change, and Our Future* by Richard B. Alley
 

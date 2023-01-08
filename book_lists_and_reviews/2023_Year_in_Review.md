@@ -37,6 +37,8 @@ Current list of books read in chronological order.
 
 ##### *Shoe Dog* by Phil Knight
 
+<br clear="left"/>
+
 ### 2023 Reading List:
 
 ##### *Adventure Psychology: Going Knowingly into the Unknown* by Paula Reid & Eric Brymer
@@ -56,3 +58,5 @@ Current list of books read in chronological order.
 ##### *The Worst Journey in the World* by Apsley Cherry-Garrard
 
 ##### *Fortune's Formula* by William Poundstone
+
+<br clear="left"/>

@@ -12,6 +12,8 @@ subtitle: A reader lives a thousand lives before he dies. The man who never read
 
 ##### [2022 Year-in-Review Reading List](2022_Year_in_Review.md)  
 
+##### [2023 Year-in-Review Reading List](2023_Year_in_Review.md) 
+
 ##### [All-time Favorites List](all_time_favorites.md)
 
 

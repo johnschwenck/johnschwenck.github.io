@@ -30,15 +30,13 @@ Current list of books read in chronological order.
 ### Total pages read for 2023: 
 ##### 696
 
-<br clear="left"/>
-
 ### Currently Reading:
 
 ##### *Shoe Dog* by Phil Knight
 
 ### 2023 Reading List:
 
-##### *Adventure Psychology: Going Knowingly into the Unknown* by Paula Reid & Eric Brymer
+##### ***Adventure Psychology: Going Knowingly into the Unknown*** by Paula Reid & Eric Brymer
 
 ##### *The Two-Mile Time Machine: Ice Cores, Abrupt Climate Change, and Our Future* by Richard B. Alley
 

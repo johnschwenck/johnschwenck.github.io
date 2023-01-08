@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2022 Year in Review
+title: 2023 Year in Review
 subtitle: Make it a rule never to give a child a book you would not read yourself. - George Bernard Shaw
 ---
 Current list of books read in chronological order.

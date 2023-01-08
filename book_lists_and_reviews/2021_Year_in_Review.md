@@ -7,6 +7,7 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### *The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win*
 ###### by Maria Konnikova
+###### Pages: 368
 ###### My Rating: 5/5
 
 [<img align="left" hspace="20" vspace = "10" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/biggestbluff.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/biggestbluff.jpg?raw=true)
@@ -24,6 +25,7 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### *Madhouse at the End of the Earth: The Belgica's Journey Into the Dark Antarctic Night*
 ###### by Julian Sancton 
+###### Pages: 368
 ###### My Rating: 5/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/madhouse.jpg?raw=true)
@@ -34,6 +36,7 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### *The River of Doubt: Theodore Roosevelt's Darkest Journey*
 ###### by Candice Millard
+###### Pages: 416
 ###### My Rating: 5/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/river_of_doubt.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/river_of_doubt.jpg?raw=true)
@@ -48,11 +51,12 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### *Ticker: The Quest to Create an Artificial Heart*
 ###### by Mimi Swartz
+###### Pages: 336
 ###### My Rating: 5/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/ticker.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/ticker.jpg?raw=true)
 
-> Ticker: The Quest to Create an Artificial Heart is a fascinating and informative book by Mimi Swartz and Eric Topol. The book tells the story of the groundbreaking efforts (along with the associated societal repercussions and controversies) to create an artificial heart that can replace the human heart when it fails. 
+> Ticker: The Quest to Create an Artificial Heart is a fascinating and informative book by Mimi Swartz and Eric Topol. The book tells the story of the groundbreaking efforts (along with the associated societal repercussions and controversies) at the Texas Heart Institute to create an artificial heart that can replace the human heart when it fails. 
 > 
 > The book begins with the history of heart disease and the development of heart surgery, and then delves into the stories of the scientists, doctors, and patients who have been at the forefront of the quest for an artificial heart. Swartz and Topol do an excellent job of weaving together the scientific, medical, and personal aspects of this complex and challenging journey. While there are not traditional "characters" in the way that a work of fiction would have, the book highlights several individuals who have played key roles in the development and implementation of the artificial heart. These individuals include:
 > 
@@ -69,6 +73,7 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### *Zero to One: Notes on Startups, or How to Build the Future*
 ###### by Peter Thiel & Blake Masters
+###### Pages: 224
 ###### My Rating: 5/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/zero_to_one.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/zero_to_one.jpg?raw=true)
@@ -85,6 +90,7 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### *The Man Who solved the Market: How Jim Simons Launched the Quant Revolution*
 ###### by Gregory Zuckerman
+###### Pages: 384
 ###### My Rating: 5/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simons.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/simons.jpg?raw=true)
@@ -95,6 +101,7 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### *Decision Points*
 ###### by George W. Bush
+###### Pages: 481
 ###### My Rating: 5/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/decision_pts.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/decision_pts.jpg?raw=true)
@@ -109,6 +116,7 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### *I Hear You: The Surprisingly Simple Skill Behind Extraordinary Relationships*
 ###### by Michael S Sorenson
+###### Pages: 149
 ###### My Rating: 4/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/i_hear_you.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/i_hear_you.jpg?raw=true)
@@ -119,6 +127,7 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### *Indistractable: How to Control Your Attention and Choose Your Life*
 ###### by Nir Eyal
+###### Pages: 290
 ###### My Rating: 3/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/indistractable.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/indistractable.jpg?raw=true)
@@ -129,10 +138,16 @@ Below is a list of books I've read in 2021 ranked in order of favorite. It was a
 
 #### *Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts*
 ###### by Annie Duke
+###### Pages: 288
 ###### My Rating: 1/5
 
 [<img align="left" hspace="20" src="https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/thinking_bets.jpg?raw=true" alt="biggest_bluff" width="100"/>](https://github.com/johnschwenck/johnschwenck.github.io/blob/master/book_lists_and_reviews/book_images/thinking_bets.jpg?raw=true)
 
 > Admittedly, my 1/5 rating is a review in hindsight. After reading The Biggest Bluff, this book was a huge let down. It reiterated the same basic life lesson about taking calculated bets (i.e. risk) over and over and over again. Perhaps this might appeal to someone who has never read any basic psychology or economics text, but if not there are plenty of better options to choose from. As a statistician myself, I cannot help but also notice the fundamental gaps in some of the ways she describes Bayesian thinking. I could not be more relieved to finish this one. 
+
+<br clear="left"/>
+
+### Total pages read for 2021: 
+##### 3,304
 
 <br clear="left"/>

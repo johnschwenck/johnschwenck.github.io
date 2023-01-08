@@ -6,18 +6,19 @@ subtitle: The more that you read, the more things you will know. The more that y
 
 ### All-Time 10 Favorite Books:
 1. *Thinking Fast & Slow* by Daniel Kahneman
-2. *The Biggest Bluff* by Maria Konnikova
-3. *Elon Musk* by Ashlee Vance
-4. *Madhouse at the End of the Earth* by Julian Sancton
-5. *1984* by George Orwell
-6. *Leonardo Da Vinci* by Walter Isaacson
-7. tmp
-8. tmp
-9. tmp
-10. tmp
+2. *Alexander Hamilton* by Ron Chernow
+3. *The Biggest Bluff* by Maria Konnikova
+4. *Elon Musk* by Ashlee Vance
+5. *Madhouse at the End of the Earth* by Julian Sancton
+6. *1984* by George Orwell
+7. *Washington: A Life* by Ron Chernow
+8. *Scar Tissue* by Anthony Kiedis
+9. *Into the Wild* by Jon Krakauer
+10. *Why We Sleep: Unlocking the Power of Sleep and Dreams* by Matthew Walker
 
-### 10 Favorite Fiction:
+### 5 Favorite Fiction:
 1. *1984* by George Orwell
-2. *Crime & Punishment* by Fyodor
-3. 
-4. 
+2. *Crime & Punishment* by Fyodor Dostoevsky
+3. *Animal Farm* by George Orwell
+4. *War of the Worlds* by H.G. Wells
+5. *Atlas Shrugged* by Ayn Rand

@@ -31,6 +31,8 @@ Current list of books read in chronological order.
 
 ##### 696
 
+<br clear="left"/>
+
 ### Currently Reading:
 
 ##### *Shoe Dog* by Phil Knight

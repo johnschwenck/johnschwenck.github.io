@@ -91,7 +91,7 @@ Current list of books read in chronological order.
 > 
 > In addition to providing a detailed account of Franklin's life and career, Isaacson also does an excellent job of placing Franklin's story in the broader context of the American Revolution and the founding of the United States. He provides insight into the major political and cultural events of the time, and shows how Franklin's ideas and actions played a key role in helping shape the course of American history, and how his legacy continues to influence the nation today.
 > 
-> Overall, Benjamin Franklin: An American Life is a highly recommended read for anyone interested in the life and times of Benjamin Franklin or in the history of the United States. It is a well-written and engaging book that provides a unique and illuminating perspective on one of the most important figures in American history.
+> Overall, Benjamin Franklin: An American Life is a highly recommended read for anyone interested in the life and times of Benjamin Franklin or in the history of the United States. It is a well-written and engaging book that provides a unique and illuminating perspective on one of the most important figures in American history; however, it falls short of other Isaacson biographies that I've read in the past, ever so slightly.
 
 <br clear="left"/>
 

@@ -3,10 +3,10 @@ name: Build and Deploy Jekyll Site
 on:
   push:
     branches:
-      - main  # or the branch you want to trigger the build on
+      - main  # Adjust this to your main branch
   pull_request:
     branches:
-      - main  # or the branch you want to trigger the build on
+      - main  # Adjust this to your main branch
 
 jobs:
   build:
@@ -16,21 +16,23 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Set up Ruby
-      uses: ruby/setup-ruby@v1
+    - name: Set up Docker Buildx
+      uses: docker/setup-buildx-action@v1
+
+    - name: Cache Docker layers
+      uses: actions/cache@v2
       with:
-        ruby-version: 2.7  # Adjust this based on your needs
+        path: /tmp/.buildx-cache
+        key: ${{ runner.os }}-buildx-${{ github.sha }}
+        restore-keys: |
+          ${{ runner.os }}-buildx-
 
-    - name: Update rubygems
-      run: gem update --system
-
-    - name: Install dependencies
-      run: bundle install
-
-    - name: Build the site
-      run: bundle exec jekyll build
-
+    - name: Build and run Jekyll
+      run: |
+        docker run --rm -v $(pwd):/srv/jekyll -e JEKYLL_UID=$(id -u) -e JEKYLL_GID=$(id -g) jekyll/builder:3.8 bash -c "gem update --system && bundle install && jekyll build"
+    
     - name: Deploy to GitHub Pages
+      if: success()
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}

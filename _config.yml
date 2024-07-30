@@ -21,7 +21,7 @@ navbar-links:
     - R: "r_code"
     - C++: "cpp_code"
   Dashboards:
-    - R4R - NYC to Alaska: "https://app.powerbi.com/view?r=eyJrIjoiYjdmYTAzMmEtZjllZS00Mzg4LTljZDMtMTQ1Y2EyODJkNmQ1IiwidCI6IjY4ZjM4MWUzLTQ2ZGEtNDdiOS1iYTU3LTZmMzIyYjhmMGRhMSIsImMiOjN9"
+    - R4R - NYC to Alaska: "https://app.powerbi.com/view?r=eyJrIjoiZWJhMmY3NmUtZjU5Mi00MjIzLWI3OWMtZTVkNzhmMDg4NDIyIiwidCI6IjQ1YTM5M2U4LTI3ZmYtNGM4OC1iMWI4LWYyZjg3MGI2NWZjZSIsImMiOjJ9"
   #Walkthroughs:
   #  - googledrive:
   #  - dropbox:

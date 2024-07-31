@@ -1,7 +1,7 @@
 ---
 layout: home
 title: John Schwenck
-subtitle: Quantitative Analyst | Texas A&M | Penn State
+subtitle: Machine Learning Engineer | Texas A&M | Penn State
 ---
 
 <div class="container">

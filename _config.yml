@@ -15,7 +15,7 @@ navbar-links:
   Home: "index"
   About Me: 
     - Overview: "aboutme"
-    - CV / Resume: "https://johnschwenck.github.io/Schwenck - Resume - 2024.pdf"
+    - CV / Resume: "https://johnschwenck.github.io/Schwenck - Resume - 2025.pdf"
   Code:
     - Python: "python_code"
     - R: "r_code"
